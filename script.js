@@ -134,8 +134,8 @@ function initializeQuiz(loadedQuestions, fileName) {
 }
 
 function loadGithubFiles() {
-    const githubUsername = "YOUR_USERNAME";
-    const githubRepo = "YOUR_REPONAME";
+    const githubUsername = "giuseppe82b-dotcom";
+    const githubRepo = "DuoSchool3";
     const folderPath = "Materiali_json";
     const apiUrl = `https://api.github.com/repos/${githubUsername}/${githubRepo}/contents/${folderPath}`;
     fetch(apiUrl)
@@ -536,4 +536,5 @@ function generateCertificate(name, surname, className) {
     link.download = `Attestato-${name}-${surname}.png`;
     link.href = canvas.toDataURL('image/png');
     link.click();
+
 }
