@@ -1,0 +1,272 @@
+/* --- Variabili Colori Pastello --- */
+:root {
+    --bg-color: #E0F7FA; /* Azzurro pastello */
+    --card-bg: #FFFFFF;
+    --header-text: #00796B; /* Verde acqua scuro */
+    --section-title: #00ACC1; /* Ciano */
+    --button-primary-bg: #4DB6AC; /* Verde acqua */
+    --button-primary-hover: #26A69A;
+    --button-secondary-bg: #FFB74D; /* Arancione pastello */
+    --button-secondary-hover: #FFA726;
+    --text-color: #424242;
+    --light-text-color: #757575;
+    --border-color: #B2DFDB;
+    --shadow-color: rgba(0, 121, 107, 0.1);
+    --correct-color: #388E3C;
+}
+
+/* --- Stili Generali --- */
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    margin: 0;
+    padding: 2rem;
+}
+
+.page-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+    background-color: var(--card-bg);
+    border-radius: 16px;
+    box-shadow: 0 4px 15px var(--shadow-color);
+}
+
+header h1 {
+    color: var(--header-text);
+    font-size: 2.5rem;
+    font-weight: 800;
+    margin: 0;
+}
+
+header p {
+    color: var(--light-text-color);
+    font-size: 1.1rem;
+}
+
+/* --- Struttura a Card --- */
+.section-card {
+    background-color: var(--card-bg);
+    border-radius: 16px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 15px var(--shadow-color);
+}
+
+.section-card h2 {
+    font-size: 1.5rem;
+    color: var(--section-title);
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+.step-circle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: var(--section-title);
+    color: white;
+    font-size: 1rem;
+    font-weight: 800;
+}
+
+.creation-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 2rem;
+}
+
+/* --- Elementi del Form --- */
+input[type="text"],
+input[type="number"],
+textarea {
+    width: 100%;
+    padding: 0.75rem;
+    margin-bottom: 1rem;
+    border: 2px solid var(--border-color);
+    border-radius: 8px;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+    font-size: 1rem;
+    transition: all 0.2s ease-in-out;
+}
+
+input[type="text"]:focus,
+input[type="number"]:focus,
+textarea:focus {
+    border-color: var(--header-text);
+    box-shadow: 0 0 5px rgba(0, 121, 107, 0.3);
+    outline: none;
+}
+
+textarea {
+    min-height: 80px;
+    resize: vertical;
+}
+
+.time-minutes {
+    width: auto !important;
+    display: inline-block;
+    margin-right: 0.5rem;
+}
+
+.radio-group {
+    display: flex;
+    gap: 1.5rem;
+    margin: 1rem 0;
+}
+
+.radio-group label {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+/* --- Pulsanti --- */
+.submit-button, .generate-button {
+    width: 100%;
+    padding: 0.8rem 1rem;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: 700;
+    color: white;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: background-color 0.2s;
+}
+
+.submit-button {
+    background-color: var(--button-primary-bg);
+    margin-top: 1rem;
+}
+
+.submit-button:hover {
+    background-color: var(--button-primary-hover);
+}
+
+.generate-button {
+    background-color: var(--button-secondary-bg);
+}
+
+.generate-button:hover:not(:disabled) {
+    background-color: var(--button-secondary-hover);
+}
+
+.generate-button:disabled {
+    background-color: #BDBDBD;
+    cursor: not-allowed;
+}
+
+.add-option-button {
+    width: 100%;
+    padding: 0.5rem;
+    background-color: #F5F5F5;
+    border: 2px dashed var(--border-color);
+    border-radius: 8px;
+    color: var(--light-text-color);
+    cursor: pointer;
+    margin-top: 0.5rem;
+}
+
+.remove-option-button {
+    background-color: #FFCDD2;
+    color: #C62828;
+    border: none;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    font-weight: bold;
+    cursor: pointer;
+    flex-shrink: 0;
+}
+
+/* --- Sezione Anteprima --- */
+#questions-preview {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+}
+
+.question-card {
+    background-color: #F1F8E9; /* Verde chiarissimo */
+    border-left: 5px solid var(--button-primary-bg);
+    padding: 1rem;
+    border-radius: 8px;
+    position: relative;
+}
+
+.question-card h3 {
+    margin: 0 0 0.5rem;
+    font-size: 1.1rem;
+}
+
+.question-card ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+
+.question-card li.correct {
+    font-weight: 700;
+    color: var(--correct-color);
+}
+
+.delete-question-button {
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    color: #E57373;
+    cursor: pointer;
+}
+
+.empty-state {
+    text-align: center;
+    padding: 2rem;
+    color: var(--light-text-color);
+}
+/* Aggiungi questo in fondo al tuo file style1.css */
+
+.pairs-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    margin-top: 1rem;
+}
+
+.pair-entry {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+.pair-entry input {
+    margin-bottom: 0;
+}
+
+.add-pair-button {
+    width: 100%;
+    padding: 0.5rem;
+    background-color: #F5F5F5;
+    border: 2px dashed var(--border-color);
+    border-radius: 8px;
+    color: var(--light-text-color);
+    cursor: pointer;
+    margin-top: 1rem;
+}

@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Quali sono i tre enti fondamentali della geometria, da cui nasce tutto il resto?",
+    "options": [
+      "Punto, linea, cerchio",
+      "Punto, retta, piano",
+      "Quadrato, retta, cubo",
+      "Punto, angolo, retta"
+    ],
+    "correctAnswer": "Punto, retta, piano",
+    "time": 1
+  },
+  {
+    "question": "In geometria, che cos'è un punto?",
+    "options": [
+      "Un cerchio molto piccolo",
+      "Un oggetto senza dimensioni che indica solo una posizione",
+      "Un quadratino colorato sul foglio",
+      "Una lettera minuscola"
+    ],
+    "correctAnswer": "Un oggetto senza dimensioni che indica solo una posizione",
+    "time": 1
+  },
+  {
+    "question": "Come si indica correttamente un punto su un foglio da disegno?",
+    "options": [
+      "Con una lettera minuscola (es. a)",
+      "Con un numero (es. 1)",
+      "Con una lettera maiuscola (es. A)",
+      "Con un simbolo (es. *)"
+    ],
+    "correctAnswer": "Con una lettera maiuscola (es. A)",
+    "time": 1
+  },
+  {
+    "question": "Se guardi una mappa digitale, la posizione esatta di una città viene indicata con un...",
+    "options": [
+      "retta",
+      "piano",
+      "punto",
+      "angolo"
+    ],
+    "correctAnswer": "punto",
+    "time": 1
+  },
+  {
+    "question": "Qual è la caratteristica più importante di un punto geometrico?",
+    "options": [
+      "Ha una lunghezza ma non uno spessore",
+      "Ha uno spessore ma non una lunghezza",
+      "Non ha alcuna dimensione (né lunghezza, né larghezza, né spessore)",
+      "È sempre di colore nero"
+    ],
+    "correctAnswer": "Non ha alcuna dimensione (né lunghezza, né larghezza, né spessore)",
+    "time": 2
+  },
+  {
+    "question": "Che cos'è una retta?",
+    "options": [
+      "Un insieme infinito di punti perfettamente allineati",
+      "Una linea che ha un inizio e una fine",
+      "Una linea curva che non finisce mai",
+      "Un pezzo di spago"
+    ],
+    "correctAnswer": "Un insieme infinito di punti perfettamente allineati",
+    "time": 1
+  },
+  {
+    "question": "Quale dimensione caratterizza la retta?",
+    "options": [
+      "Nessuna dimensione",
+      "Una sola dimensione: la lunghezza",
+      "Due dimensioni: lunghezza e larghezza",
+      "Tre dimensioni: lunghezza, larghezza e profondità"
+    ],
+    "correctAnswer": "Una sola dimensione: la lunghezza",
+    "time": 2
+  },
+  {
+    "question": "Il bordo di un righello o l'orizzonte del mare ci danno l'idea di una...",
+    "options": [
+      "linea curva",
+      "retta",
+      "punto",
+      "cerchio"
+    ],
+    "correctAnswer": "retta",
+    "time": 1
+  },
+  {
+    "question": "Un filo perfettamente teso per stendere i panni a quale ente geometrico assomiglia?",
+    "options": [
+      "A un punto",
+      "A un piano",
+      "A una retta",
+      "A una sfera"
+    ],
+    "correctAnswer": "A una retta",
+    "time": 1
+  },
+  {
+    "question": "Se disegni due punti distinti A e B su un foglio, quante rette puoi far passare per entrambi?",
+    "options": [
+      "Nessuna",
+      "Una e una sola",
+      "Infinite",
+      "Due"
+    ],
+    "correctAnswer": "Una e una sola",
+    "time": 2
+  },
+  {
+    "question": "Che cos'è un piano in geometria?",
+    "options": [
+      "Un foglio di carta di dimensioni fisse",
+      "Una superficie piana che si estende all'infinito in tutte le direzioni",
+      "Un tavolo da disegno",
+      "Un triangolo molto grande"
+    ],
+    "correctAnswer": "Una superficie piana che si estende all'infinito in tutte le direzioni",
+    "time": 1
+  },
+  {
+    "question": "Quante dimensioni ha un piano?",
+    "options": [
+      "Una dimensione: la lunghezza",
+      "Non ha dimensioni",
+      "Due dimensioni: lunghezza e larghezza",
+      "Tre dimensioni"
+    ],
+    "correctAnswer": "Due dimensioni: lunghezza e larghezza",
+    "time": 2
+  },
+  {
+    "question": "La superficie di un campo di calcio, del pavimento di casa o di un lago calmo sono esempi che ci ricordano un...",
+    "options": [
+      "punto",
+      "retta",
+      "piano",
+      "angolo"
+    ],
+    "correctAnswer": "piano",
+    "time": 1
+  },
+  {
+    "question": "Lo schermo del tuo smartphone o del televisore è un ottimo modello di...",
+    "options": [
+      "punto",
+      "linea curva",
+      "piano",
+      "cubo"
+    ],
+    "correctAnswer": "piano",
+    "time": 1
+  },
+  {
+    "question": "La punta di una matita ben temperata è un buon esempio fisico per rappresentare un...",
+    "options": [
+      "piano",
+      "retta",
+      "punto",
+      "cerchio"
+    ],
+    "correctAnswer": "punto",
+    "time": 1
+  },
+  {
+    "question": "A cosa serve studiare la geometria nella vita di tutti i giorni?",
+    "options": [
+      "Solo a prendere un bel voto in pagella",
+      "A disegnare, costruire case, creare videogiochi e orientarsi con le mappe",
+      "Solo a fare calcoli complicati",
+      "A poco o nulla"
+    ],
+    "correctAnswer": "A disegnare, costruire case, creare videogiochi e orientarsi con le mappe",
+    "time": 1
+  },
+  {
+    "question": "Quanti punti puoi trovare su una qualsiasi retta?",
+    "options": [
+      "Solo due, l'inizio e la fine",
+      "Nessuno",
+      "Un numero finito, ma molto grande",
+      "Infiniti"
+    ],
+    "correctAnswer": "Infiniti",
+    "time": 2
+  },
+  {
+    "question": "Quante rette puoi disegnare su un piano?",
+    "options": [
+      "Solo una",
+      "Due",
+      "Un numero limitato in base alla grandezza del foglio",
+      "Infinite"
+    ],
+    "correctAnswer": "Infinite",
+    "time": 2
+  },
+  {
+    "question": "Un architetto che progetta una casa su un foglio, usa il foglio come...",
+    "options": [
+      "un punto",
+      "una retta",
+      "un piano di lavoro",
+      "un cubo"
+    ],
+    "correctAnswer": "un piano di lavoro",
+    "time": 1
+  },
+  {
+    "question": "La scia lasciata da un aereo in cielo è un buon esempio reale di...",
+    "options": [
+      "punto",
+      "segmento (parte di una retta)",
+      "piano",
+      "spazio"
+    ],
+    "correctAnswer": "segmento (parte di una retta)",
+    "time": 2
+  },
+  {
+    "question": "Una retta divisa in due parti da un punto di origine crea due...",
+    "options": [
+      "segmenti",
+      "semirette",
+      "piani",
+      "angoli"
+    ],
+    "correctAnswer": "semirette",
+    "time": 1
+  },
+  {
+    "question": "Il raggio di luce di un faro che parte dalla costa e si estende nel mare è un ottimo esempio di...",
+    "options": [
+      "segmento",
+      "retta intera",
+      "semiretta",
+      "punto luminoso"
+    ],
+    "correctAnswer": "semiretta",
+    "time": 2
+  },
+  {
+    "question": "Come si chiama la parte di retta compresa tra due punti?",
+    "options": [
+      "Semiretta",
+      "Segmento",
+      "Piano",
+      "Angolo"
+    ],
+    "correctAnswer": "Segmento",
+    "time": 1
+  },
+  {
+    "question": "Il lato di un quaderno o la lunghezza di una matita sono esempi concreti di...",
+    "options": [
+      "rette",
+      "piani",
+      "punti",
+      "segmenti"
+    ],
+    "correctAnswer": "segmenti",
+    "time": 1
+  },
+  {
+    "question": "Due rette che si trovano sullo stesso piano ma non si incontrano mai si dicono...",
+    "options": [
+      "incidenti",
+      "perpendicolari",
+      "parallele",
+      "segmenti"
+    ],
+    "correctAnswer": "parallele",
+    "time": 1
+  },
+  {
+    "question": "I binari del treno o le strisce pedonali sono famosi esempi di linee...",
+    "options": [
+      "perpendicolari",
+      "incidenti",
+      "parallele",
+      "curve"
+    ],
+    "correctAnswer": "parallele",
+    "time": 1
+  },
+  {
+    "question": "Due rette che si incontrano in un solo punto si dicono...",
+    "options": [
+      "parallele",
+      "segmenti",
+      "piani",
+      "incidenti"
+    ],
+    "correctAnswer": "incidenti",
+    "time": 1
+  },
+  {
+    "question": "Come si chiamano due rette incidenti che, incontrandosi, formano quattro angoli retti?",
+    "options": [
+      "Parallele",
+      "Sghembe",
+      "Perpendicolari",
+      "Curve"
+    ],
+    "correctAnswer": "Perpendicolari",
+    "time": 2
+  },
+  {
+    "question": "L'incrocio tra due strade che si incontrano ad angolo retto è un esempio di rette...",
+    "options": [
+      "parallele",
+      "perpendicolari",
+      "curve",
+      "piane"
+    ],
+    "correctAnswer": "perpendicolari",
+    "time": 2
+  },
+  {
+    "question": "Come si chiama la parte di piano compresa tra due semirette che hanno la stessa origine?",
+    "options": [
+      "Segmento",
+      "Poligono",
+      "Angolo",
+      "Vertice"
+    ],
+    "correctAnswer": "Angolo",
+    "time": 1
+  },
+  {
+    "question": "Le lancette di un orologio che segnano le ore 3:00 formano un angolo...",
+    "options": [
+      "acuto",
+      "retto",
+      "ottuso",
+      "piatto"
+    ],
+    "correctAnswer": "retto",
+    "time": 2
+  },
+  {
+    "question": "Un angolo più piccolo di un angolo retto (minore di 90°) si definisce...",
+    "options": [
+      "ottuso",
+      "piatto",
+      "acuto",
+      "giro"
+    ],
+    "correctAnswer": "acuto",
+    "time": 1
+  },
+  {
+    "question": "Un angolo maggiore di un angolo retto (più di 90°) ma minore di un angolo piatto si chiama...",
+    "options": [
+      "acuto",
+      "retto",
+      "ottuso",
+      "giro"
+    ],
+    "correctAnswer": "ottuso",
+    "time": 1
+  },
+  {
+    "question": "Quando apri un ventaglio, l'angolo che si forma è di solito un angolo...",
+    "options": [
+      "retto",
+      "acuto",
+      "ottuso",
+      "piatto"
+    ],
+    "correctAnswer": "ottuso",
+    "time": 2
+  },
+  {
+    "question": "Una figura piana delimitata da una linea spezzata chiusa si chiama...",
+    "options": [
+      "cerchio",
+      "poligono",
+      "angolo",
+      "retta"
+    ],
+    "correctAnswer": "poligono",
+    "time": 1
+  },
+  {
+    "question": "Come si chiamano i punti in cui si incontrano i lati di un poligono?",
+    "options": [
+      "Angoli",
+      "Vertici",
+      "Segmenti",
+      "Perimetri"
+    ],
+    "correctAnswer": "Vertici",
+    "time": 1
+  },
+  {
+    "question": "Il segnale stradale di STOP ha la forma di quale poligono?",
+    "options": [
+      "Esagono (6 lati)",
+      "Quadrato (4 lati)",
+      "Ottagono (8 lati)",
+      "Triangolo (3 lati)"
+    ],
+    "correctAnswer": "Ottagono (8 lati)",
+    "time": 2
+  },
+  {
+    "question": "La misura della lunghezza del contorno di un poligono si chiama...",
+    "options": [
+      "Area",
+      "Volume",
+      "Perimetro",
+      "Diagonale"
+    ],
+    "correctAnswer": "Perimetro",
+    "time": 1
+  },
+  {
+    "question": "Se vuoi mettere una recinzione attorno a un campo da calcio, quale misura devi calcolare?",
+    "options": [
+      "L'area",
+      "Il perimetro",
+      "Il volume",
+      "La diagonale"
+    ],
+    "correctAnswer": "Il perimetro",
+    "time": 2
+  },
+  {
+    "question": "Un angolo formato da due semirette opposte (che insieme formano una retta) si chiama...",
+    "options": [
+      "Angolo giro (360°)",
+      "Angolo nullo (0°)",
+      "Angolo piatto (180°)",
+      "Angolo retto (90°)"
+    ],
+    "correctAnswer": "Angolo piatto (180°)",
+    "time": 2
+  },
+  {
+    "question": "Come si chiamano due segmenti che hanno in comune soltanto un estremo?",
+    "options": [
+      "Paralleli",
+      "Adiacenti",
+      "Consecutivi",
+      "Uguali"
+    ],
+    "correctAnswer": "Consecutivi",
+    "time": 1
+  },
+  {
+    "question": "Se disegni una linea spezzata aperta, come la lettera 'L', i due segmenti che la formano sono...",
+    "options": [
+      "Adiacenti",
+      "Paralleli",
+      "Consecutivi (ma non adiacenti)",
+      "Uguali"
+    ],
+    "correctAnswer": "Consecutivi (ma non adiacenti)",
+    "time": 2
+  },
+  {
+    "question": "Le varie tappe di un percorso di trekking segnate su una mappa, una dopo l'altra, rappresentano segmenti...",
+    "options": [
+      "Sempre adiacenti",
+      "Sempre uguali",
+      "Consecutivi",
+      "Paralleli"
+    ],
+    "correctAnswer": "Consecutivi",
+    "time": 2
+  },
+  {
+    "question": "Quali due condizioni devono essere vere perché due segmenti siano 'adiacenti'?",
+    "options": [
+      "Devono essere paralleli e uguali",
+      "Devono essere consecutivi e trovarsi sulla stessa retta",
+      "Devono avere la stessa lunghezza",
+      "Devono trovarsi su due rette diverse"
+    ],
+    "correctAnswer": "Devono essere consecutivi e trovarsi sulla stessa retta",
+    "time": 2
+  },
+  {
+    "question": "Se rompi una matita in due pezzi e li lasci perfettamente allineati uno dopo l'altro, hai creato due segmenti...",
+    "options": [
+      "Consecutivi ma non adiacenti",
+      "Adiacenti",
+      "Paralleli",
+      "Incidenti"
+    ],
+    "correctAnswer": "Adiacenti",
+    "time": 1
+  },
+  {
+    "question": "L'affermazione: 'Tutti i segmenti adiacenti sono anche consecutivi' è...",
+    "options": [
+      "Vera",
+      "Falsa",
+      "Vera solo se i segmenti sono uguali",
+      "Falsa solo se i segmenti sono diversi"
+    ],
+    "correctAnswer": "Vera",
+    "time": 2
+  },
+  {
+    "question": "L'affermazione: 'Tutti i segmenti consecutivi sono anche adiacenti' è...",
+    "options": [
+      "Vera",
+      "Falsa",
+      "Vera solo se si trovano su un poligono",
+      "Sempre vera"
+    ],
+    "correctAnswer": "Falsa",
+    "time": 2
+  },
+  {
+    "question": "Due righelli da 15 cm sono messi uno di seguito all'altro su una linea dritta. I due segmenti che rappresentano sono...",
+    "options": [
+      "Paralleli",
+      "Consecutivi e basta",
+      "Adiacenti",
+      "Uguali ma non consecutivi"
+    ],
+    "correctAnswer": "Adiacenti",
+    "time": 1
+  },
+  {
+    "question": "Il lato AB di un quadrato e il lato BC dello stesso quadrato sono segmenti...",
+    "options": [
+      "Adiacenti",
+      "Paralleli",
+      "Consecutivi",
+      "Sulla stessa retta"
+    ],
+    "correctAnswer": "Consecutivi",
+    "time": 2
+  },
+  {
+    "question": "Se il segmento AB è adiacente al segmento BC e misurano rispettivamente 10 cm e 5 cm, quanto misura il segmento totale AC?",
+    "options": [
+      "5 cm",
+      "10 cm",
+      "15 cm",
+      "Non si può sapere"
+    ],
+    "correctAnswer": "15 cm",
+    "time": 1
+  }
+]

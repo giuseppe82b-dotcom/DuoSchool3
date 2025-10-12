@@ -1,0 +1,381 @@
+[
+  {
+    "question": "In matematica, che cos'è un insieme?",
+    "options": [
+      "Un gruppo di numeri casuali.",
+      "Una collezione di oggetti ben definiti e distinti.",
+      "Una figura geometrica con molti lati.",
+      "Un'operazione tra due numeri."
+    ],
+    "correctAnswer": "Una collezione di oggetti ben definiti e distinti.",
+    "time": 1
+  },
+  {
+    "question": "Perché la frase 'gli studenti più simpatici della classe' NON rappresenta un insieme in senso matematico?",
+    "options": [
+      "Perché il criterio di appartenenza ('simpatici') non è oggettivo.",
+      "Perché ci sono troppi studenti in una classe.",
+      "Perché gli studenti non sono oggetti matematici.",
+      "Perché la frase è troppo lunga."
+    ],
+    "correctAnswer": "Perché il criterio di appartenenza ('simpatici') non è oggettivo.",
+    "time": 2
+  },
+  {
+    "question": "Quale dei seguenti è un insieme ben definito?",
+    "options": [
+      "I libri noiosi",
+      "Le lettere della parola 'gatto'",
+      "I film divertenti",
+      "I ragazzi alti della scuola"
+    ],
+    "correctAnswer": "Le lettere della parola 'gatto'",
+    "time": 1
+  },
+  {
+    "question": "Come si chiamano gli oggetti che formano un insieme?",
+    "options": [
+      "Componenti",
+      "Parti",
+      "Unità",
+      "Elementi"
+    ],
+    "correctAnswer": "Elementi",
+    "time": 1
+  },
+  {
+    "question": "Con quale tipo di lettera si è soliti indicare un insieme?",
+    "options": [
+      "Maiuscola dell'alfabeto latino",
+      "Minuscola dell'alfabeto latino",
+      "Maiuscola dell'alfabeto greco",
+      "Un numero qualsiasi"
+    ],
+    "correctAnswer": "Maiuscola dell'alfabeto latino",
+    "time": 1
+  },
+  {
+    "question": "Quale simbolo si usa per indicare che un elemento appartiene a un insieme?",
+    "options": [
+      "=",
+      "<",
+      "∈",
+      "⊂"
+    ],
+    "correctAnswer": "∈",
+    "time": 1
+  },
+  {
+    "question": "La definizione A = {x | x è un giorno della settimana} è un esempio di rappresentazione...",
+    "options": [
+      "Per elencazione",
+      "Grafica",
+      "Per caratteristica",
+      "Errata"
+    ],
+    "correctAnswer": "Per caratteristica",
+    "time": 2
+  },
+  {
+    "question": "La definizione B = {a, e, i, o, u} è un esempio di rappresentazione...",
+    "options": [
+      "Per caratteristica",
+      "Per elencazione (o tabulare)",
+      "Con i diagrammi di Venn"
+    ],
+    "correctAnswer": "Per elencazione (o tabulare)",
+    "time": 1
+  },
+  {
+    "question": "Qual è l'errore nella seguente rappresentazione: A = {s, c, i, e, n, z, e}?",
+    "options": [
+      "Le lettere dovrebbero essere in ordine alfabetico.",
+      "L'elemento 'e' è ripetuto.",
+      "Non ci sono errori."
+    ],
+    "correctAnswer": "L'elemento 'e' è ripetuto.",
+    "time": 2
+  },
+  {
+    "question": "Quando un insieme A è detto sottoinsieme di un insieme B?",
+    "options": [
+      "Quando A contiene meno elementi di B.",
+      "Quando ogni elemento di A è anche elemento di B.",
+      "Quando A e B hanno almeno un elemento in comune."
+    ],
+    "correctAnswer": "Quando ogni elemento di A è anche elemento di B.",
+    "time": 1
+  },
+  {
+    "question": "Quali sono i sottoinsiemi impropri di un qualsiasi insieme A?",
+    "options": [
+      "Solo l'insieme stesso.",
+      "L'insieme vuoto e l'insieme stesso.",
+      "Solo l'insieme vuoto."
+    ],
+    "correctAnswer": "L'insieme vuoto e l'insieme stesso.",
+    "time": 2
+  },
+  {
+    "question": "Come si chiama un insieme che non contiene alcun elemento?",
+    "options": [
+      "Insieme nullo",
+      "Insieme singolo",
+      "Insieme vuoto",
+      "Insieme zero"
+    ],
+    "correctAnswer": "Insieme vuoto",
+    "time": 1
+  },
+  {
+    "question": "Quale dei seguenti è un esempio di insieme vuoto?",
+    "options": [
+      "L'insieme dei numeri naturali minori di 0",
+      "L'insieme il cui unico elemento è il numero 0",
+      "L'insieme dei numeri pari"
+    ],
+    "correctAnswer": "L'insieme dei numeri naturali minori di 0",
+    "time": 2
+  },
+  {
+    "question": "Cosa contiene l'insieme intersezione di due insiemi A e B?",
+    "options": [
+      "Tutti gli elementi che appartengono ad A oppure a B.",
+      "Tutti e solo gli elementi che appartengono sia ad A sia a B.",
+      "Solo gli elementi che appartengono ad A ma non a B."
+    ],
+    "correctAnswer": "Tutti e solo gli elementi che appartengono sia ad A sia a B.",
+    "time": 1
+  },
+  {
+    "question": "Dati A = {a, b, c, d} e B = {c, d, e, f}, qual è la loro intersezione (A ∩ B)?",
+    "options": [
+      "{a, b, c, d, e, f}",
+      "{c, d}",
+      "{a, b}",
+      "L'insieme vuoto"
+    ],
+    "correctAnswer": "{c, d}",
+    "time": 2
+  },
+  {
+    "question": "Se metti in un cassetto tutte le tue calze, hai creato un...",
+    "options": [
+      "problema",
+      "numero",
+      "insieme",
+      "operazione"
+    ],
+    "correctAnswer": "insieme",
+    "time": 1
+  },
+  {
+    "question": "Quale di questi gruppi è un 'insieme' in senso matematico e non un'opinione?",
+    "options": [
+      "I tuoi amici più simpatici",
+      "Le materie che studi a scuola",
+      "I film più belli del mondo",
+      "Le canzoni più noiose"
+    ],
+    "correctAnswer": "Le materie che studi a scuola",
+    "time": 2
+  },
+  {
+    "question": "Se l'insieme A è quello dei gusti di pizza che ti piacciono, 'margherita' è un...",
+    "options": [
+      "sottoinsieme",
+      "elemento",
+      "insieme vuoto",
+      "operazione"
+    ],
+    "correctAnswer": "elemento",
+    "time": 1
+  },
+  {
+    "question": "Come scriveresti per elencazione l'insieme dei colori primari?",
+    "options": [
+      "{giallo, rosso, blu}",
+      "{colori}",
+      "{verde, arancione, viola}",
+      "{bianco, nero}"
+    ],
+    "correctAnswer": "{giallo, rosso, blu}",
+    "time": 1
+  },
+  {
+    "question": "La frase 'l'insieme degli sport che si giocano con una palla' è una definizione...",
+    "options": [
+      "per elencazione",
+      "per caratteristica",
+      "con un diagramma",
+      "sbagliata"
+    ],
+    "correctAnswer": "per caratteristica",
+    "time": 1
+  },
+  {
+    "question": "Se hai amici che amano i film di supereroi e amici che amano le commedie, quelli a cui piacciono ENTRAMBI i generi sono...",
+    "options": [
+      "l'unione",
+      "l'intersezione",
+      "un sottoinsieme",
+      "l'insieme vuoto"
+    ],
+    "correctAnswer": "l'intersezione",
+    "time": 2
+  },
+  {
+    "question": "Quando crei una playlist su Spotify o YouTube con le tue canzoni preferite, stai creando...",
+    "options": [
+      "un'intersezione",
+      "un insieme",
+      "un'unione",
+      "un problema"
+    ],
+    "correctAnswer": "un insieme",
+    "time": 1
+  },
+  {
+    "question": "Se sulla pizza puoi scegliere 'o' i funghi 'o' le olive, stai pensando a...",
+    "options": [
+      "un'unione di gusti",
+      "un'intersezione di gusti",
+      "una scelta impossibile",
+      "un insieme vuoto"
+    ],
+    "correctAnswer": "un'unione di gusti",
+    "time": 2
+  },
+  {
+    "question": "L'insieme 'le persone che hanno 200 anni' è un...",
+    "options": [
+      "insieme infinito",
+      "insieme con un elemento",
+      "insieme vuoto",
+      "sottoinsieme"
+    ],
+    "correctAnswer": "insieme vuoto",
+    "time": 1
+  },
+  {
+    "question": "L'insieme dei tuoi compagni di classe è un sottoinsieme...",
+    "options": [
+      "di tutti gli studenti della tua scuola",
+      "di tutti i professori",
+      "delle città d'Italia",
+      "dei cantanti famosi"
+    ],
+    "correctAnswer": "di tutti gli studenti della tua scuola",
+    "time": 2
+  },
+  {
+    "question": "L'insieme dei cani è un sottoinsieme dell'insieme...",
+    "options": [
+      "dei gatti",
+      "dei mammiferi",
+      "dei pesci",
+      "delle piante"
+    ],
+    "correctAnswer": "dei mammiferi",
+    "time": 1
+  },
+  {
+    "question": "Se in un diagramma di Venn disegni due cerchi che non si toccano, i due insiemi sono...",
+    "options": [
+      "uguali",
+      "disgiunti (cioè separati)",
+      "uno dentro l'altro",
+      "uniti"
+    ],
+    "correctAnswer": "disgiunti (cioè separati)",
+    "time": 1
+  },
+  {
+    "question": "Quanti elementi ha l'insieme dei giorni del weekend?",
+    "options": [
+      "7",
+      "5",
+      "2",
+      "1"
+    ],
+    "correctAnswer": "2",
+    "time": 1
+  },
+  {
+    "question": "Su un sito di shopping, se filtri le magliette per 'rosse' E 'taglia M', stai usando...",
+    "options": [
+      "l'unione",
+      "l'intersezione",
+      "l'insieme vuoto",
+      "il sottoinsieme"
+    ],
+    "correctAnswer": "l'intersezione",
+    "time": 2
+  },
+  {
+    "question": "L'insieme dei tuoi libri e l'insieme dei tuoi videogiochi di solito sono...",
+    "options": [
+      "uguali",
+      "disgiunti",
+      "uno dentro l'altro",
+      "infiniti"
+    ],
+    "correctAnswer": "disgiunti",
+    "time": 1
+  },
+  {
+    "question": "Se A = {lettere di 'CARTE'} e B = {lettere di 'TRACCE'}, quale è la loro intersezione (A ∩ B)?",
+    "options": [
+      "{C, A, R, T, E}",
+      "{T, R, A, C, E}",
+      "{C, A, R, T, E, C}",
+      "{C, A, T, E}"
+    ],
+    "correctAnswer": "{C, A, R, T, E}",
+    "time": 2
+  },
+  {
+    "question": "Se l'insieme A = {le lettere della parola 'ROMA'} e B = {le lettere della parola 'AMOR'}, allora A e B sono...",
+    "options": [
+      "diversi",
+      "uguali",
+      "uno il contrario dell'altro",
+      "disgiunti"
+    ],
+    "correctAnswer": "uguali",
+    "time": 2
+  },
+  {
+    "question": "La rubrica del tuo telefono è un insieme di contatti. Se crei un gruppo 'Amici stretti', hai creato un...",
+    "options": [
+      "insieme vuoto",
+      "intersezione",
+      "sottoinsieme",
+      "insieme più grande"
+    ],
+    "correctAnswer": "sottoinsieme",
+    "time": 2
+  },
+  {
+    "question": "Qual è l'insieme (per elencazione) di {x | x è un mese dell'anno con 31 giorni}?",
+    "options": [
+      "{Gennaio, Marzo, Maggio, Luglio, Agosto, Ottobre, Dicembre}",
+      "{Aprile, Giugno, Settembre, Novembre}",
+      "{Febbraio}",
+      "{Tutti i mesi}"
+    ],
+    "correctAnswer": "{Gennaio, Marzo, Maggio, Luglio, Agosto, Ottobre, Dicembre}",
+    "time": 2
+  },
+  {
+    "question": "Dati l'insieme A={animali con 4 zampe} e B={animali che vivono in acqua}, il delfino a quale insieme appartiene?",
+    "options": [
+      "Solo all'insieme A",
+      "Solo all'insieme B",
+      "A nessuno dei due",
+      "All'intersezione A ∩ B"
+    ],
+    "correctAnswer": "Solo all'insieme B",
+    "time": 2
+  }
+]

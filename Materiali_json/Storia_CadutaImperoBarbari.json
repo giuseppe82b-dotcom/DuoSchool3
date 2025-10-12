@@ -1,0 +1,222 @@
+[
+  {
+    "question": "Che cos'è la Storia?",
+    "options": [
+      "L'elenco di tutte le date importanti",
+      "Lo studio del passato dell'uomo attraverso l'analisi delle fonti",
+      "Un racconto inventato su re e regine",
+      "Lo studio della geografia antica"
+    ],
+    "correctAnswer": "Lo studio del passato dell'uomo attraverso l'analisi delle fonti",
+    "time": 1
+  },
+  {
+    "question": "Cosa sono le 'fonti storiche'?",
+    "options": [
+      "Le fontane antiche che si trovano nelle città",
+      "I libri di storia che usiamo a scuola",
+      "Tutte le tracce (oggetti, lettere, ossa...) che il passato ci ha lasciato",
+      "Le storie che i nonni raccontano"
+    ],
+    "correctAnswer": "Tutte le tracce (oggetti, lettere, ossa...) che il passato ci ha lasciato",
+    "time": 1
+  },
+  {
+    "question": "Una moneta antica o le rovine di un tempio sono esempi di fonti...",
+    "options": [
+      "Scritte",
+      "Orali",
+      "Materiali",
+      "Visive"
+    ],
+    "correctAnswer": "Materiali",
+    "time": 1
+  },
+  {
+    "question": "Il II secolo d.C. è considerato per l'Impero Romano un periodo di...",
+    "options": [
+      "Grave crisi e declino",
+      "Massima espansione, pace e ricchezza",
+      "Continue guerre civili",
+      "Nascita della Repubblica"
+    ],
+    "correctAnswer": "Massima espansione, pace e ricchezza",
+    "time": 2
+  },
+  {
+    "question": "Quale fu una delle principali cause della crisi dell'Impero Romano nel III secolo?",
+    "options": [
+      "La fine delle guerre",
+      "Le tasse troppo basse per tutti",
+      "Le continue guerre ai confini e l'aumento delle tasse",
+      "Un'epidemia di felicità"
+    ],
+    "correctAnswer": "Le continue guerre ai confini e l'aumento delle tasse",
+    "time": 2
+  },
+  {
+    "question": "Il periodo chiamato 'anarchia militare' (235-284 d.C.) fu un momento in cui...",
+    "options": [
+      "I soldati si rifiutavano di combattere",
+      "Gli eserciti sceglievano e uccidevano gli imperatori molto spesso",
+      "Non c'erano più generali a comandare l'esercito",
+      "L'impero non aveva più un esercito"
+    ],
+    "correctAnswer": "Gli eserciti sceglievano e uccidevano gli imperatori molto spesso",
+    "time": 2
+  },
+  {
+    "question": "Il Cristianesimo, che si diffuse nell'impero, è una religione monoteista. Cosa significa?",
+    "options": [
+      "Che crede in un solo dio",
+      "Che crede in molti dei",
+      "Che non crede in nessun dio",
+      "Che adora l'imperatore"
+    ],
+    "correctAnswer": "Che crede in un solo dio",
+    "time": 1
+  },
+  {
+    "question": "Nelle prime comunità cristiane, chi erano i diaconi?",
+    "options": [
+      "I capi supremi della Chiesa",
+      "Coloro che si occupavano di aiutare i poveri e amministrare i beni della comunità",
+      "I soldati che difendevano i cristiani",
+      "Gli imperatori che si convertirono"
+    ],
+    "correctAnswer": "Coloro che si occupavano di aiutare i poveri e amministrare i beni della comunità",
+    "time": 2
+  },
+  {
+    "question": "A capo di ogni comunità cristiana cittadina c'era una figura di riferimento chiamata...",
+    "options": [
+      "Diacono",
+      "Imperatore",
+      "Vescovo",
+      "Gladiatore"
+    ],
+    "correctAnswer": "Vescovo",
+    "time": 1
+  },
+  {
+    "question": "Perché i Romani inizialmente perseguitarono i Cristiani?",
+    "options": [
+      "Perché erano troppo ricchi",
+      "Perché si rifiutavano di adorare l'imperatore e gli dei romani",
+      "Perché non volevano pagare le tasse",
+      "Perché parlavano una lingua sconosciuta"
+    ],
+    "correctAnswer": "Perché si rifiutavano di adorare l'imperatore e gli dei romani",
+    "time": 2
+  },
+  {
+    "question": "Per governare meglio l'impero, Diocleziano creò la 'tetrarchia', un governo formato da...",
+    "options": [
+      "Tre consoli",
+      "Due imperatori e due vice-imperatori (Augusti e Cesari)",
+      "Un re e i suoi ministri",
+      "Dieci senatori"
+    ],
+    "correctAnswer": "Due imperatori e due vice-imperatori (Augusti e Cesari)",
+    "time": 2
+  },
+  {
+    "question": "Nella tetrarchia, chi erano i Cesari?",
+    "options": [
+      "Gli imperatori più anziani",
+      "I nemici degli imperatori",
+      "Gli 'aiutanti' e successori designati degli Augusti",
+      "I capi dell'esercito"
+    ],
+    "correctAnswer": "Gli 'aiutanti' e successori designati degli Augusti",
+    "time": 2
+  },
+  {
+    "question": "L'imperatore Costantino spostò la capitale dell'impero da Roma a una nuova città, che chiamò...",
+    "options": [
+      "Alessandria",
+      "Costantinopoli",
+      "Milano",
+      "Londra"
+    ],
+    "correctAnswer": "Costantinopoli",
+    "time": 1
+  },
+  {
+    "question": "Cosa stabilì l'importantissimo Editto di Milano del 313 d.C.?",
+    "options": [
+      "Che tutti dovevano diventare cristiani per forza",
+      "La libertà di praticare la propria religione per tutti, compresi i Cristiani",
+      "La divisione dell'impero in due parti",
+      "L'aumento dei prezzi di tutti i beni"
+    ],
+    "correctAnswer": "La libertà di praticare la propria religione per tutti, compresi i Cristiani",
+    "time": 2
+  },
+  {
+    "question": "Come vivevano le popolazioni germaniche ai confini dell'impero?",
+    "options": [
+      "Vivevano in grandi città di pietra come Roma",
+      "Erano popoli di agricoltori sedentari e pacifici",
+      "Erano popoli nomadi o seminomadi, abili nella guerra e nella caccia",
+      "Erano ricchi mercanti e navigatori"
+    ],
+    "correctAnswer": "Erano popoli nomadi o seminomadi, abili nella guerra e nella caccia",
+    "time": 1
+  },
+  {
+    "question": "L'arrivo in Europa degli Unni, un temibile popolo guerriero dall'Asia, cosa causò?",
+    "options": [
+      "Un periodo di pace e prosperità",
+      "La fuga di molte popolazioni germaniche, che si spinsero dentro i confini romani",
+      "La costruzione di nuove strade",
+      "La fine del Cristianesimo"
+    ],
+    "correctAnswer": "La fuga di molte popolazioni germaniche, che si spinsero dentro i confini romani",
+    "time": 2
+  },
+  {
+    "question": "Nella battaglia di Adrianopoli del 378 d.C., l'esercito romano subì una terribile sconfitta da parte...",
+    "options": [
+      "Dei Persiani",
+      "Degli Unni",
+      "Dei Visigoti",
+      "Dei Greci"
+    ],
+    "correctAnswer": "Dei Visigoti",
+    "time": 2
+  },
+  {
+    "question": "Alla sua morte (395 d.C.), l'imperatore Teodosio divise l'impero tra i suoi due figli, creando...",
+    "options": [
+      "L'Impero d'Italia e l'Impero di Grecia",
+      "L'Impero dei ricchi e l'Impero dei poveri",
+      "L'Impero Romano d'Occidente e l'Impero Romano d'Oriente",
+      "L'Impero del Nord e l'Impero del Sud"
+    ],
+    "correctAnswer": "L'Impero Romano d'Occidente e l'Impero Romano d'Oriente",
+    "time": 1
+  },
+  {
+    "question": "Quale dei due imperi romani cadde nel 476 d.C.?",
+    "options": [
+      "L'Impero Romano d'Oriente",
+      "L'Impero Romano d'Occidente",
+      "Crollarono entrambi nello stesso anno",
+      "Nessuno dei due"
+    ],
+    "correctAnswer": "L'Impero Romano d'Occidente",
+    "time": 1
+  },
+  {
+    "question": "Quale fu l'ultima decisione religiosa importante dell'imperatore Teodosio?",
+    "options": [
+      "Tornare ad adorare gli dei romani",
+      "Concedere la libertà di culto a tutti",
+      "Proclamare il Cristianesimo unica religione ufficiale dell'impero",
+      "Perseguitare di nuovo i cristiani"
+    ],
+    "correctAnswer": "Proclamare il Cristianesimo unica religione ufficiale dell'impero",
+    "time": 2
+  }
+]

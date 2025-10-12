@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lezione Stile Duolingo</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="main-banner">
+        <img src="banner.png" alt="Banner Esercitazioni" class="banner-image">
+    </header>
+
+    <div id="welcome-screen" class="screen">
+        <img src="https://design.duolingo.com/5e4bdad53cb4500b603a.svg" alt="welcome" class="welcome-illustration">
+        <h1>Benvenuto all'esercitazione</h1>
+        <p>Premi "Inizia" per caricare la lezione.</p>
+        <button id="start-button" class="action-button">Inizia</button>
+        <div class="creator-link-container">
+            <a href="costruttore.html">Creazione Esercitazioni</a>
+        </div>
+    </div>
+
+    <div id="file-input-screen" class="screen hidden">
+        <h1>Scegli come caricare la Lezione</h1>
+
+        <div class="load-option">
+            <h2>Dal tuo Computer</h2>
+            <label for="file-input" class="file-input-label">
+                Scegli il file .json...
+            </label>
+            <input type="file" id="file-input" accept=".json">
+            <p id="error-message" class="error-message hidden"></p>
+        </div>
+
+        <div class="divider">OPPURE</div>
+
+        <div class="load-option">
+            <h2>Da Materiali Pronti</h2>
+            <select id="github-files-dropdown">
+                <option value="">-- Seleziona una materia --</option>
+            </select>
+            <button id="load-from-github-button" class="action-button">Avvia Test da Materiali Pronti</button>
+            <p id="github-error-message" class="error-message hidden"></p>
+        </div>
+    </div>
+
+    <div id="quiz-container" class="screen hidden">
+        <div id="quiz-header">
+            <div class="progress-bar-container">
+                <div class="progress-bar"></div>
+            </div>
+            <div id="timer-container" class="hidden">
+                <div class="timer-icon">⏰</div>
+                <div class="timer-bar-wrapper">
+                    <div id="timer-bar-progress"></div>
+                </div>
+            </div>
+        </div>
+        <div class="question-container">
+            <div id="question-image-container" class="hidden">
+                <img id="question-image" src="" alt="Immagine della domanda">
+            </div>
+            <h2 id="question-text">Testo della domanda...</h2>
+        </div>
+        <div id="answers-container" class="answers-grid"></div>
+        <div id="feedback-container" class="hidden">
+            <div class="feedback-content">
+                <img id="correct-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB7eCDoTAM5kuzducdRmOowZAfWdvaduVQZw&s" alt="Personaggio felice" class="feedback-illustration hidden">
+                <img id="incorrect-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx1XNqEqU5cqLd22AvoaKZ3VF3urxI6lmUfg&s" alt="Personaggio pensieroso" class="feedback-illustration hidden">
+                <h3 id="feedback-text"></h3>
+            </div>
+            <button id="continue-button">Continua</button>
+        </div>
+    </div>
+
+    <div id="timed-challenge-intro-screen" class="screen hidden">
+         <h1>ORA METTITI ALLA PROVA</h1>
+        <p style="font-size: 1.5rem; font-weight: bold;">SFIDA CON IL TEMPO</p>
+        <button id="start-timed-challenge-button" class="action-button">CONTINUA</button>
+    </div>
+    <div id="user-data-screen" class="screen hidden">
+        <h2>Un ultimo passo...</h2>
+        <p>Inserisci i tuoi dati per generare l'attestato di completamento.</p>
+        <input type="text" id="cert-name" placeholder="Nome" autocomplete="off">
+        <input type="text" id="cert-surname" placeholder="Cognome" autocomplete="off">
+        <input type="text" id="cert-class" placeholder="Classe" autocomplete="off">
+        <button id="generate-cert-button" class="action-button">Genera Attestato</button>
+    </div>
+    <div id="final-screen" class="screen hidden">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5EQj1YhaXAa-EK57MJwEdFFeYR4jzMiKlQQ&s" alt="Congratulazioni" class="welcome-illustration">
+        <h1>Complimenti!</h1>
+        <p>Il tuo attestato è stato scaricato con successo.</p>
+        <button id="restart-button" class="action-button">Inizia una nuova lezione</button>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

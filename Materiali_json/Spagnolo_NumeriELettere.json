@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Come si scrive il numero 0 in spagnolo?",
+    "options": [
+      "Zero",
+      "Cero",
+      "Sero",
+      "Zerro"
+    ],
+    "correctAnswer": "Cero",
+    "time": 1
+  },
+  {
+    "question": "Come si scrive il numero 5 in spagnolo?",
+    "options": [
+      "Cinque",
+      "Cinco",
+      "Cinko",
+      "Sinko"
+    ],
+    "correctAnswer": "Cinco",
+    "time": 1
+  },
+  {
+    "question": "Quale numero corrisponde alla parola spagnola 'nueve'?",
+    "options": [
+      "9",
+      "7",
+      "90",
+      "2"
+    ],
+    "correctAnswer": "9",
+    "time": 1
+  },
+  {
+    "question": "In spagnolo, quale numero è 'catorce'?",
+    "options": [
+      "4",
+      "40",
+      "14",
+      "15"
+    ],
+    "correctAnswer": "14",
+    "time": 2
+  },
+  {
+    "question": "La parola 'quince' in spagnolo quale numero indica?",
+    "options": [
+      "5",
+      "50",
+      "15",
+      "55"
+    ],
+    "correctAnswer": "15",
+    "time": 2
+  },
+  {
+    "question": "Come si scrive in parola il numero 21 in spagnolo?",
+    "options": [
+      "Ventiuno",
+      "Veintiuno",
+      "Veinte y uno",
+      "Vente uno"
+    ],
+    "correctAnswer": "Veintiuno",
+    "time": 2
+  },
+  {
+    "question": "Come si scrive in parola il numero 30 in spagnolo?",
+    "options": [
+      "Trenta",
+      "Treinta",
+      "Trienta",
+      "Treynta"
+    ],
+    "correctAnswer": "Treinta",
+    "time": 1
+  },
+  {
+    "question": "Quale parola spagnola indica il numero 100?",
+    "options": [
+      "Cento",
+      "Cien",
+      "Mil",
+      "Diez y diez"
+    ],
+    "correctAnswer": "Cien",
+    "time": 1
+  },
+  {
+    "question": "Quando fai lo spelling, come si legge la lettera 'V' in spagnolo?",
+    "options": [
+      "Vi",
+      "Uve",
+      "Ve",
+      "Bi"
+    ],
+    "correctAnswer": "Uve",
+    "time": 2
+  },
+  {
+    "question": "La lettera 'H' in spagnolo, in una parola come 'hola', come si pronuncia?",
+    "options": [
+      "È aspirata, come in inglese",
+      "Non si pronuncia, è muta",
+      "Come una 'g' dura",
+      "Come una 'c' dolce"
+    ],
+    "correctAnswer": "Non si pronuncia, è muta",
+    "time": 1
+  },
+  {
+    "question": "La lettera 'Ñ' dello spagnolo, come si legge quando fai lo spelling?",
+    "options": [
+      "Enne",
+      "Ene",
+      "Eñe",
+      "N con la tilde"
+    ],
+    "correctAnswer": "Eñe",
+    "time": 2
+  },
+  {
+    "question": "La lettera 'J' in spagnolo (la jota) ha un suono che in italiano non esiste, simile a...",
+    "options": [
+      "La 'i' di 'ieri'",
+      "Un colpo di tosse leggero",
+      "La 'g' di 'gioco'",
+      "Non si pronuncia"
+    ],
+    "correctAnswer": "Un colpo di tosse leggero",
+    "time": 2
+  }
+]

@@ -1,0 +1,392 @@
+[
+  {
+    "question": "Qual è il primo passo del metodo scientifico?",
+    "options": [
+      "Eseguire un esperimento",
+      "Formulare un'ipotesi",
+      "Identificare un problema o una domanda",
+      "Comunicare i risultati"
+    ],
+    "correctAnswer": "Identificare un problema o una domanda",
+    "time": 1
+  },
+  {
+    "question": "Cosa si fa durante la fase di 'Osservazione - Ricerca'?",
+    "options": [
+      "Si inventa una possibile risposta",
+      "Si raccolgono informazioni sull'argomento di interesse",
+      "Si misura il risultato dell'esperimento",
+      "Si pubblica uno studio"
+    ],
+    "correctAnswer": "Si raccolgono informazioni sull'argomento di interesse",
+    "time": 2
+  },
+  {
+    "question": "Che cos'è un'ipotesi?",
+    "options": [
+      "Una conclusione definitiva",
+      "Una possibile risposta al problema che può essere testata",
+      "L'elenco dei materiali per l'esperimento",
+      "Un grafico dei risultati"
+    ],
+    "correctAnswer": "Una possibile risposta al problema che può essere testata",
+    "time": 1
+  },
+  {
+    "question": "Quale delle seguenti frasi è un esempio di ipotesi corretta?",
+    "options": [
+      "Mi chiedo se la luce influenzi la crescita delle piante.",
+      "Le piante crescono meglio con la luce.",
+      "Se una pianta riceve più luce, allora crescerà di più.",
+      "Le piante hanno bisogno di acqua e luce per crescere."
+    ],
+    "correctAnswer": "Se una pianta riceve più luce, allora crescerà di più.",
+    "time": 2
+  },
+  {
+    "question": "Qual è lo scopo principale della fase 'Esperimento'?",
+    "options": [
+      "Ricercare informazioni online",
+      "Disegnare un grafico",
+      "Sviluppare e seguire una procedura per testare l'ipotesi",
+      "Scrivere la conclusione finale"
+    ],
+    "correctAnswer": "Sviluppare e seguire una procedura per testare l'ipotesi",
+    "time": 1
+  },
+ 
+  {
+    "question": "La variabile che viene misurata per vedere l'effetto del cambiamento si chiama:",
+    "options": [
+      "Variabile di controllo",
+      "Variabile costante",
+      "Variabile indipendente",
+      "Variabile dipendente"
+    ],
+    "correctAnswer": "Variabile dipendente",
+    "time": 2
+  },
+  
+  {
+    "question": "Cosa sono le 'costanti' in un esperimento?",
+    "options": [
+      "I fattori che vengono cambiati intenzionalmente",
+      "I risultati inaspettati dell'esperimento",
+      "Tutti i fattori che devono essere mantenuti uguali",
+      "Le diverse ipotesi formulate"
+    ],
+    "correctAnswer": "Tutti i fattori che devono essere mantenuti uguali",
+    "time": 1
+  },
+  
+  {
+    "question": "A cosa serve il 'gruppo di controllo' in un esperimento?",
+    "options": [
+      "A rendere l'esperimento più complicato",
+      "A fornire un termine di paragone per valutare i risultati",
+      "A garantire che l'ipotesi sia sempre corretta",
+      "A cambiare tutte le variabili contemporaneamente"
+    ],
+    "correctAnswer": "A fornire un termine di paragone per valutare i risultati",
+    "time": 2
+  },
+  {
+    "question": "Nella fase di 'Conclusione', cosa deve fare lo scienziato?",
+    "options": [
+      "Modificare i risultati per adattarli all'ipotesi",
+      "Includere una dichiarazione che accetta o rifiuta l'ipotesi",
+      "Svolgere un nuovo esperimento da capo",
+      "Chiedere l'opinione degli amici"
+    ],
+    "correctAnswer": "Includere una dichiarazione che accetta o rifiuta l'ipotesi",
+    "time": 1
+  },
+  {
+    "question": "Cosa succede se i dati dell'esperimento non supportano l'ipotesi?",
+    "options": [
+      "L'esperimento è considerato un fallimento totale",
+      "I dati devono essere ignorati",
+      "L'ipotesi viene rifiutata o modificata",
+      "Bisogna ripetere l'esperimento finché i dati non combaciano"
+    ],
+    "correctAnswer": "L'ipotesi viene rifiutata o modificata",
+    "time": 1
+  },
+  {
+    "question": "Qual è l'ultimo passo del metodo scientifico?",
+    "options": [
+      "La formulazione dell'ipotesi",
+      "La raccolta dei dati",
+      "La conclusione",
+      "La comunicazione dei risultati"
+    ],
+    "correctAnswer": "La comunicazione dei risultati",
+    "time": 1
+  },
+  {
+    "question": "Perché è importante ripetere un esperimento più volte (fare più prove)?",
+    "options": [
+      "Per usare più materiali",
+      "Per perdere tempo",
+      "Per confermare i risultati e assicurarsi che non siano casuali",
+      "Perché è obbligatorio per legge"
+    ],
+    "correctAnswer": "Per confermare i risultati e assicurarsi che non siano casuali",
+    "time": 2
+  },
+  {
+    "question": "Il risultato di un esperimento deve essere...",
+    "options": [
+      "Soggettivo e basato su opinioni",
+      "Segreto e non condivisibile",
+      "Misurabile e quantificabile",
+      "Sempre uguale a quello previsto"
+    ],
+    "correctAnswer": "Misurabile e quantificabile",
+    "time": 1
+  },
+ 
+  {
+    "question": "L'affermazione 'Il metodo scientifico è un processo rigido e non può mai essere modificato' è:",
+    "options": [
+      "Vera, i passi sono sempre e solo quelli",
+      "Falsa, la procedura può essere modificata se necessario",
+      "Vera, altrimenti i risultati non sono validi",
+      "Falsa, non esistono passi nel metodo scientifico"
+    ],
+    "correctAnswer": "Falsa, la procedura può essere modificata se necessario",
+    "time": 1
+  },
+  {
+    "question": "In quale fase si usano tabelle e grafici?",
+    "options": [
+      "Nel formulare la domanda iniziale",
+      "Nella ricerca bibliografica",
+      "Nel raccogliere e analizzare i risultati",
+      "Nella comunicazione orale"
+    ],
+    "correctAnswer": "Nel raccogliere e analizzare i risultati",
+    "time": 1
+  },
+ 
+  {
+    "question": "Perché il tuo Wi-Fi è lento? Quale potrebbe essere un'ipotesi da verificare?",
+    "options": [
+      "Il computer è di un colore che non piace al Wi-Fi.",
+      "Forse ci sono troppi dispositivi collegati contemporaneamente.",
+      "Il Wi-Fi è stanco.",
+      "La connessione internet non esiste."
+    ],
+    "correctAnswer": "Forse ci sono troppi dispositivi collegati contemporaneamente.",
+    "time": 2
+  },
+  {
+    "question": "Vuoi scoprire quale marca di carta assorbente è la migliore. Cosa fai per condurre un esperimento corretto?",
+    "options": [
+      "Usi fogli di dimensioni diverse per ogni marca.",
+      "Versi la stessa quantità d'acqua su un foglio di ogni marca e vedi quale assorbe di più.",
+      "Chiedi a tua mamma qual è la sua preferita.",
+      "Scegli la marca con la confezione più bella."
+    ],
+    "correctAnswer": "Versi la stessa quantità d'acqua su un foglio di ogni marca e vedi quale assorbe di più.",
+    "time": 2
+  },
+  {
+    "question": "La tua pianta in camera non cresce bene. Formuli l'ipotesi: 'Se sposto la pianta vicino alla finestra, allora crescerà meglio'. Qual è la variabile indipendente?",
+    "options": [
+      "La velocità di crescita della pianta.",
+      "Il colore del vaso.",
+      "La quantità di luce solare che riceve.",
+      "La quantità di acqua che le dai."
+    ],
+    "correctAnswer": "La quantità di luce solare che riceve.",
+    "time": 2
+  },
+  {
+    "question": "Perché i tuoi biscotti si sono bruciati? Qual è il primo passo da fare per capirlo secondo il metodo scientifico?",
+    "options": [
+      "Buttare via i biscotti e comprarne altri.",
+      "Dare la colpa al forno.",
+      "Osservare e formulare una domanda: 'Ho seguito la ricetta correttamente?'",
+      "Non cucinare mai più."
+    ],
+    "correctAnswer": "Osservare e formulare una domanda: 'Ho seguito la ricetta correttamente?'",
+    "time": 1
+  },
+  {
+    "question": "Pensi che ascoltare la musica ti aiuti a studiare. Per verificarlo, studi per un'ora storia con la musica e il giorno dopo per un'ora matematica senza musica. Perché questo esperimento non è corretto?",
+    "options": [
+      "Perché le materie studiate sono diverse.",
+      "Perché la musica era troppo alta.",
+      "Perché un'ora è troppo poco tempo.",
+      "L'esperimento è corretto."
+    ],
+    "correctAnswer": "Perché le materie studiate sono diverse.",
+    "time": 2
+  },
+  {
+    "question": "Quale pallone rimbalza più in alto? Per scoprirlo, fai cadere un pallone da calcio, uno da basket e uno da pallavolo dalla stessa altezza. L'altezza da cui li fai cadere è:",
+    "options": [
+      "Una variabile dipendente",
+      "Un'ipotesi",
+      "Una costante",
+      "Una conclusione"
+    ],
+    "correctAnswer": "Una costante",
+    "time": 1
+  },
+  {
+    "question": "La batteria del tuo cellulare si scarica molto in fretta. Annoti per un giorno quali app usi di più per vedere se c'è un collegamento. Questa azione corrisponde a:",
+    "options": [
+      "Comunicare i risultati",
+      "Raccogliere e analizzare i dati",
+      "Formulare un'ipotesi",
+      "Cambiare telefono"
+    ],
+    "correctAnswer": "Raccogliere e analizzare i dati",
+    "time": 1
+  },
+  {
+    "question": "Vuoi sapere se le piante crescono meglio con l'acqua del rubinetto o con l'acqua in bottiglia. Prendi due piante identiche. A una dai l'acqua dal rubinetto e all'altra quella in bottiglia. Cosa rappresenta la pianta a cui dai l'acqua dal rubinetto (la tua solita acqua)?",
+    "options": [
+      "L'esperimento fallito",
+      "La variabile dipendente",
+      "Il gruppo di controllo",
+      "Una costante"
+    ],
+    "correctAnswer": "Il gruppo di controllo",
+    "time": 2
+  },
+  {
+    "question": "Un cubetto di ghiaccio a forma di stella si scioglie più velocemente di uno a forma di cubo? La forma del ghiaccio è la...",
+    "options": [
+      "variabile indipendente.",
+      "variabile dipendente.",
+      "conclusione.",
+      "costante."
+    ],
+    "correctAnswer": "variabile indipendente.",
+    "time": 1
+  },
+  {
+    "question": "Dopo aver testato diverse marche di popcorn, scopri che la marca 'Pop-Max' lascia meno chicchi non scoppiati. Questa è la tua...",
+    "options": [
+      "Domanda",
+      "Ipotesi",
+      "Conclusione",
+      "Ricerca"
+    ],
+    "correctAnswer": "Conclusione",
+    "time": 1
+  },
+  {
+    "question": "Vuoi capire quale detersivo per piatti fa più bolle. Qual è la variabile dipendente che devi misurare?",
+    "options": [
+      "La marca del detersivo.",
+      "La quantità di acqua usata.",
+      "La quantità di bolle prodotte.",
+      "Il colore del detersivo."
+    ],
+    "correctAnswer": "La quantità di bolle prodotte.",
+    "time": 2
+  },
+  {
+    "question": "Ti chiedi se indossare una maglietta nera al sole faccia sentire più caldo rispetto a una bianca. Quale potrebbe essere la tua ipotesi?",
+    "options": [
+      "Mi piace di più la maglietta bianca.",
+      "Il nero è un colore scuro.",
+      "Se indosso una maglietta nera al sole, allora sentirò più caldo.",
+      "Oggi c'è il sole."
+    ],
+    "correctAnswer": "Se indosso una maglietta nera al sole, allora sentirò più caldo.",
+    "time": 1
+  },
+  {
+    "question": "Per scoprire il percorso più veloce per andare a scuola, provi tre strade diverse per tre giorni di seguito e misuri il tempo. Questa è la fase di...",
+    "options": [
+      "Ricerca",
+      "Esperimento",
+      "Conclusione",
+      "Comunicazione"
+    ],
+    "correctAnswer": "Esperimento",
+    "time": 1
+  },
+  {
+    "question": "Dopo aver fatto l'esperimento sul percorso per la scuola, crei un grafico per confrontare i tempi. Questo ti aiuta a...",
+    "options": [
+      "Formulare un'ipotesi",
+      "Analizzare i risultati",
+      "Fare la ricerca",
+      "Scegliere la strada più lunga"
+    ],
+    "correctAnswer": "Analizzare i risultati",
+    "time": 1
+  },
+  {
+    "question": "La tua squadra di calcio perde sempre. L'allenatore decide di cambiare schema di gioco per la prossima partita. Il cambio di schema è:",
+    "options": [
+      "Una costante",
+      "Una conclusione",
+      "Una variabile indipendente",
+      "Una variabile dipendente"
+    ],
+    "correctAnswer": "Una variabile indipendente",
+    "time": 2
+  },
+  {
+    "question": "Il risultato della partita dopo il cambio di schema (vittoria, pareggio o sconfitta) è:",
+    "options": [
+      "Una variabile dipendente",
+      "Una variabile indipendente",
+      "Un'ipotesi",
+      "Un gruppo di controllo"
+    ],
+    "correctAnswer": "Una variabile dipendente",
+    "time": 2
+  },
+  {
+    "question": "La tua pizza fatta in casa non è lievitata. Ricerchi online 'cause mancata lievitazione pizza'. Questo passaggio del metodo scientifico è:",
+    "options": [
+      "Esperimento",
+      "Osservazione/Ricerca",
+      "Conclusione",
+      "Domanda"
+    ],
+    "correctAnswer": "Osservazione/Ricerca",
+    "time": 1
+  },
+  {
+    "question": "Pensi che uno zaino più pesante ti faccia camminare più lentamente. Come potresti misurare la variabile dipendente?",
+    "options": [
+      "Pesando lo zaino.",
+      "Cronometrando quanto tempo impieghi per percorrere una distanza fissa.",
+      "Chiedendo a un amico se sembri più lento.",
+      "Contando i libri nello zaino."
+    ],
+    "correctAnswer": "Cronometrando quanto tempo impieghi per percorrere una distanza fissa.",
+    "time": 2
+  },
+  {
+    "question": "Hai scoperto un nuovo modo per far durare di più le bolle di sapone. Lo racconti ai tuoi amici e gli mostri come fare. Questo è un esempio di:",
+    "options": [
+      "Problema",
+      "Ipotesi",
+      "Analisi dei dati",
+      "Comunicazione dei risultati"
+    ],
+    "correctAnswer": "Comunicazione dei risultati",
+    "time": 1
+  },
+  {
+    "question": "Quale di queste domande NON può essere risolta con il metodo scientifico?",
+    "options": [
+      "Quale tipo di suolo trattiene più acqua?",
+      "La musica classica è più bella della musica rock?",
+      "A che temperatura bolle l'acqua salata?",
+      "I gatti dormono più dei cani?"
+    ],
+    "correctAnswer": "La musica classica è più bella della musica rock?",
+    "time": 2
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Come si scrive il numero 3 in inglese?",
+    "options": [
+      "Tree",
+      "Three",
+      "Fre",
+      "Thre"
+    ],
+    "correctAnswer": "Three",
+    "time": 1
+  },
+  {
+    "question": "Quale numero corrisponde alla parola inglese 'ten'?",
+    "options": [
+      "1",
+      "10",
+      "100",
+      "1000"
+    ],
+    "correctAnswer": "10",
+    "time": 1
+  },
+  {
+    "question": "La parola 'eleven' quale numero indica?",
+    "options": [
+      "7",
+      "11",
+      "111",
+      "1"
+    ],
+    "correctAnswer": "11",
+    "time": 2
+  },
+  {
+    "question": "Come si scrive in parola il numero 15?",
+    "options": [
+      "Fiveteen",
+      "Fifteen",
+      "Fivteen",
+      "Fifty"
+    ],
+    "correctAnswer": "Fifteen",
+    "time": 2
+  },
+  {
+    "question": "Quale di questi numeri è 'thirty'?",
+    "options": [
+      "13",
+      "3",
+      "30",
+      "300"
+    ],
+    "correctAnswer": "30",
+    "time": 2
+  },
+  {
+    "question": "Qual è la parola corretta per il numero 50?",
+    "options": [
+      "Fivety",
+      "Fifteen",
+      "Fifty",
+      "Fiveteen"
+    ],
+    "correctAnswer": "Fifty",
+    "time": 2
+  },
+  {
+    "question": "Come si chiama la lettera 'H' quando fai lo spelling in inglese?",
+    "options": [
+      "Ash",
+      "Hash",
+      "Aitch",
+      "Acca"
+    ],
+    "correctAnswer": "Aitch",
+    "time": 2
+  },
+  {
+    "question": "A differenza dell'italiano, la lettera 'H' in parole come 'hello' o 'house' è...",
+    "options": [
+      "Muta, non si pronuncia",
+      "Aspirata, si pronuncia con un soffio",
+      "Dolce, come in 'ciao'",
+      "Dura, come in 'che'"
+    ],
+    "correctAnswer": "Aspirata, si pronuncia con un soffio",
+    "time": 1
+  },
+  {
+    "question": "Quando fai lo spelling, come si legge la lettera 'W'?",
+    "options": [
+      "Doppia vi",
+      "Doppio vu",
+      "Double-u",
+      "Omega"
+    ],
+    "correctAnswer": "Double-u",
+    "time": 2
+  },
+  {
+    "question": "Quale lettera dell'alfabeto inglese si pronuncia come la parola 'you' (tu)?",
+    "options": [
+      "Y",
+      "I",
+      "U",
+      "J"
+    ],
+    "correctAnswer": "U",
+    "time": 2
+  },
+  {
+    "question": "Quale lettera inglese suona come la parola 'sea' (mare)?",
+    "options": [
+      "S",
+      "C",
+      "Z",
+      "E"
+    ],
+    "correctAnswer": "C",
+    "time": 2
+  },
+  {
+    "question": "Come si legge la lettera 'J' in parole come 'jeans' o 'job'?",
+    "options": [
+      "Come la 'i' italiana",
+      "Come la 'g' di 'gelo'",
+      "Come la 'i' di 'ieri'",
+      "Come la 'g' di 'gatto'"
+    ],
+    "correctAnswer": "Come la 'g' di 'gelo'",
+    "time": 1
+  }
+]

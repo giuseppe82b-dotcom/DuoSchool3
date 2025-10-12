@@ -1,0 +1,244 @@
+[
+  {
+    "question": "Quali sono i quattro punti cardinali principali?",
+    "options": [
+      "Alto, Basso, Destra, Sinistra",
+      "Nord, Sud, Est, Ovest",
+      "Italia, Francia, Germania, Spagna",
+      "Alpi, Appennini, Tirreno, Adriatico"
+    ],
+    "correctAnswer": "Nord, Sud, Est, Ovest",
+    "time": 1
+  },
+  {
+    "question": "A cosa serve principalmente la bussola?",
+    "options": [
+      "A misurare la temperatura",
+      "A indicare sempre il Nord magnetico",
+      "A calcolare le distanze",
+      "A sapere che ore sono"
+    ],
+    "correctAnswer": "A indicare sempre il Nord magnetico",
+    "time": 1
+  },
+  {
+    "question": "L'insieme di linee immaginarie verticali e orizzontali (meridiani e paralleli) che copre la Terra si chiama...",
+    "options": [
+      "Ragnatela geografica",
+      "Reticolo geografico",
+      "Griglia terrestre",
+      "Mappa del tesoro"
+    ],
+    "correctAnswer": "Reticolo geografico",
+    "time": 1
+  },
+  {
+    "question": "Come si chiamano le semicirconferenze immaginarie che uniscono il Polo Nord al Polo Sud?",
+    "options": [
+      "Paralleli",
+      "Equatori",
+      "Meridiani",
+      "Tropici"
+    ],
+    "correctAnswer": "Meridiani",
+    "time": 1
+  },
+  {
+    "question": "Qual è il meridiano di riferimento (o meridiano 0) da cui si inizia a contare la longitudine?",
+    "options": [
+      "Il meridiano di Roma",
+      "Il meridiano di Greenwich",
+      "Il meridiano di Parigi",
+      "L'Equatore"
+    ],
+    "correctAnswer": "Il meridiano di Greenwich",
+    "time": 2
+  },
+  {
+    "question": "I cerchi immaginari che circondano la Terra parallelamente all'Equatore si chiamano...",
+    "options": [
+      "Meridiani",
+      "Paralleli",
+      "Linee rette",
+      "Confini"
+    ],
+    "correctAnswer": "Paralleli",
+    "time": 1
+  },
+  {
+    "question": "Perché ogni carta geografica del mondo è 'approssimata'?",
+    "options": [
+      "Perché i geografi non sono precisi",
+      "Perché è impossibile rappresentare una superficie sferica su un foglio piano senza deformazioni",
+      "Perché i confini degli stati cambiano ogni giorno",
+      "Perché i colori non sono mai quelli reali"
+    ],
+    "correctAnswer": "Perché è impossibile rappresentare una superficie sferica su un foglio piano senza deformazioni",
+    "time": 2
+  },
+  {
+    "question": "Come si chiama la carta geografica che rappresenta l'intera superficie terrestre?",
+    "options": [
+      "Mappa del mondo",
+      "Planisfero",
+      "Carta topografica",
+      "Mappamondo"
+    ],
+    "correctAnswer": "Planisfero",
+    "time": 1
+  },
+  {
+    "question": "A cosa serve la 'scala' in una carta geografica?",
+    "options": [
+      "A pesare la carta",
+      "A indicare di quante volte la realtà è stata rimpicciolita",
+      "A mostrare le montagne più alte",
+      "A trovare i punti cardinali"
+    ],
+    "correctAnswer": "A indicare di quante volte la realtà è stata rimpicciolita",
+    "time": 1
+  },
+  {
+    "question": "Se su una carta leggi la scala numerica 1:100.000, cosa significa?",
+    "options": [
+      "Che 1 cm sulla carta corrisponde a 100.000 cm (cioè 1 km) nella realtà",
+      "Che la carta è stata disegnata 100.000 volte",
+      "Che sulla carta ci sono 100.000 città",
+      "Che 100.000 cm sulla carta corrispondono a 1 cm nella realtà"
+    ],
+    "correctAnswer": "Che 1 cm sulla carta corrisponde a 100.000 cm (cioè 1 km) nella realtà",
+    "time": 2
+  },
+  {
+    "question": "La 'scala grafica' si presenta come...",
+    "options": [
+      "Un numero con i due punti (es. 1:100)",
+      "Un grafico a torta",
+      "Un piccolo righello disegnato sulla carta che indica le distanze reali",
+      "Una legenda di colori"
+    ],
+    "correctAnswer": "Un piccolo righello disegnato sulla carta che indica le distanze reali",
+    "time": 1
+  },
+  {
+    "question": "In una carta fisica, con quale colore si indicano di solito le pianure?",
+    "options": [
+      "Marrone",
+      "Blu",
+      "Azzurro",
+      "Verde"
+    ],
+    "correctAnswer": "Verde",
+    "time": 1
+  },
+  {
+    "question": "Sulle carte fisiche, le diverse altezze delle montagne e le profondità dei mari sono indicate con...",
+    "options": [
+      "Dei numeri scritti sopra",
+      "Sfumature di colore diverse (tinte altimetriche)",
+      "Dei simboli a forma di triangolo o di onda",
+      "Non sono indicate"
+    ],
+    "correctAnswer": "Sfumature di colore diverse (tinte altimetriche)",
+    "time": 2
+  },
+  {
+    "question": "Una carta stradale di una regione, come la Toscana, è un esempio di...",
+    "options": [
+      "Planisfero",
+      "Mappa di una città",
+      "Carta regionale",
+      "Carta topografica"
+    ],
+    "correctAnswer": "Carta regionale",
+    "time": 1
+  },
+  {
+    "question": "Quale tipo di carta, molto dettagliata, useresti per un'escursione in montagna?",
+    "options": [
+      "Un planisfero",
+      "Una carta politica",
+      "Una carta topografica",
+      "Una mappa del tesoro"
+    ],
+    "correctAnswer": "Una carta topografica",
+    "time": 2
+  },
+  {
+    "question": "La rappresentazione molto dettagliata di una singola città o di un quartiere si chiama...",
+    "options": [
+      "Carta geografica",
+      "Carta regionale",
+      "Pianta o Mappa",
+      "Planisfero"
+    ],
+    "correctAnswer": "Pianta o Mappa",
+    "time": 1
+  },
+  {
+    "question": "Qual è la caratteristica principale di una carta fisica?",
+    "options": [
+      "Mostra i confini tra gli Stati e le città",
+      "Mostra gli elementi naturali di un territorio (montagne, fiumi, laghi...)",
+      "Mostra dove si trovano le industrie",
+      "È sempre di colore giallo"
+    ],
+    "correctAnswer": "Mostra gli elementi naturali di un territorio (montagne, fiumi, laghi...)",
+    "time": 1
+  },
+  {
+    "question": "Cosa rappresenta una carta politica?",
+    "options": [
+      "Gli elementi naturali come le montagne",
+      "I confini di Stati, Regioni e le città importanti",
+      "Le zone dove il clima è lo stesso",
+      "Le lingue parlate nel mondo"
+    ],
+    "correctAnswer": "I confini di Stati, Regioni e le città importanti",
+    "time": 1
+  },
+  {
+    "question": "Una carta che mostra un argomento specifico, ad esempio le zone più piovose d'Italia, si chiama...",
+    "options": [
+      "Carta fisica",
+      "Carta politica",
+      "Carta tematica",
+      "Carta muta"
+    ],
+    "correctAnswer": "Carta tematica",
+    "time": 2
+  },
+  {
+    "question": "Le fotografie scattate da aerei o droni, usate per creare carte molto dettagliate, si chiamano...",
+    "options": [
+      "Foto satellitari",
+      "Foto aeree",
+      "Selfie",
+      "Cartoline"
+    ],
+    "correctAnswer": "Foto aeree",
+    "time": 1
+  },
+  {
+    "question": "Cosa sono e a cosa servono i software GIS (Geographic Information System)?",
+    "options": [
+      "Sono videogiochi di geografia",
+      "Sono programmi per modificare le foto delle vacanze",
+      "Sono software per creare carte geografiche digitali e analizzare dati sul territorio",
+      "Sono sistemi di navigazione per le automobili"
+    ],
+    "correctAnswer": "Sono software per creare carte geografiche digitali e analizzare dati sul territorio",
+    "time": 2
+  },
+  {
+    "question": "A cosa serve principalmente Google Earth?",
+    "options": [
+      "A mandare email",
+      "A scrivere testi di geografia",
+      "A esplorare virtualmente tutta la superficie terrestre tramite immagini satellitari",
+      "A prevedere i terremoti"
+    ],
+    "correctAnswer": "A esplorare virtualmente tutta la superficie terrestre tramite immagini satellitari",
+    "time": 1
+  }
+]

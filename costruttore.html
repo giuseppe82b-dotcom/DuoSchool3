@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Costruttore di Esercitazioni</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style1.css">
+</head>
+<body>
+
+    <div class="page-container">
+        <header>
+            <h1>Costruttore di Esercitazioni</h1>
+            <p>Crea le domande per il tuo quiz e scarica il file JSON pronto all'uso.</p>
+        </header>
+
+        <div class="section-card">
+            <h2><span class="step-circle">1</span> Nome Esercitazione</h2>
+            <input type="text" id="file-name" placeholder="es. biologia_cellula">
+        </div>
+
+        <div class="creation-grid">
+
+            <div class="section-card">
+                <h2><span class="step-circle">2</span> Scelta Multipla</h2>
+                <form id="form-multiple-choice">
+                    <textarea class="question-text" placeholder="Testo della domanda..." required></textarea>
+                    <input type="text" class="image-url" placeholder="URL immagine (opzionale)">
+                    <input type="number" class="time-minutes" value="1" min="1" required>
+                    <div class="options-container"></div>
+                    <button type="button" class="add-option-button">+ Aggiungi Opzione</button>
+                    <button type="submit" class="submit-button">Aggiungi Domanda</button>
+                </form>
+            </div>
+
+            <div class="section-card">
+                <h2><span class="step-circle">2</span> Vero / Falso</h2>
+                <form id="form-true-false">
+                    <textarea class="question-text" placeholder="Affermazione da valutare..." required></textarea>
+                    <input type="text" class="image-url" placeholder="URL immagine (opzionale)">
+                    <input type="number" class="time-minutes" value="1" min="1" required>
+                    <div class="radio-group">
+                        <label><input type="radio" name="true-false-answer" value="Vero" checked> Vero</label>
+                        <label><input type="radio" name="true-false-answer" value="Falso"> Falso</label>
+                    </div>
+                    <button type="submit" class="submit-button">Aggiungi Domanda</button>
+                </form>
+            </div>
+
+            <div class="section-card">
+                <h2><span class="step-circle">2</span> Ricostruisci la Frase</h2>
+                <form id="form-sentence-rebuild">
+                    <textarea class="question-text" placeholder="Consegna (es. Metti in ordine...)" required></textarea>
+                    <input type="text" class="image-url" placeholder="URL immagine (opzionale)">
+                    <textarea class="sentence-text" placeholder="Frase corretta da ricostruire..." required></textarea>
+                    <input type="number" class="time-minutes" value="1" min="1" required>
+                    <button type="submit" class="submit-button">Aggiungi Domanda</button>
+                </form>
+            </div>
+
+            <div class="section-card">
+                <h2><span class="step-circle">2</span> Abbinamenti</h2>
+                <form id="form-matching">
+                    <textarea class="question-text" placeholder="Consegna (es. Abbina gli elementi...)" required></textarea>
+                    <input type="text" class="image-url" placeholder="URL immagine (opzionale)">
+                    <input type="number" class="time-minutes" value="1" min="1" required>
+                    <div class="pairs-container"></div>
+                    <button type="button" class="add-pair-button">+ Aggiungi Coppia</button>
+                    <button type="submit" class="submit-button">Aggiungi Domanda</button>
+                </form>
+            </div>
+            </div>
+
+        <div class="section-card">
+            <h2><span class="step-circle">3</span> Anteprima Domande</h2>
+            <div id="questions-preview">
+                <p class="empty-state">Nessuna domanda ancora aggiunta.</p>
+            </div>
+        </div>
+
+        <div class="section-card">
+            <h2><span class="step-circle">4</span> Finalizza</h2>
+            <p>Una volta aggiunte tutte le domande, genera il file JSON da usare nell'esercitazione.</p>
+            <button id="generate-json-button" class="generate-button" disabled>Genera e Scarica File JSON</button>
+        </div>
+    </div>
+
+    <script src="script1.js"></script>
+</body>
+</html>

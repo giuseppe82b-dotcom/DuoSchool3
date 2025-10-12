@@ -1,0 +1,332 @@
+[
+  {
+    "question": "Come si dice 'Lunedì' in spagnolo?",
+    "options": [
+      "Lunus",
+      "Lunes",
+      "Luno",
+      "Lunusdì"
+    ],
+    "correctAnswer": "Lunes",
+    "time": 1
+  },
+  {
+    "question": "¿Qué día de la semana es 'Martes' en italiano?",
+    "options": [
+      "Martedì",
+      "Mercoledì",
+      "Marte",
+      "Martesì"
+    ],
+    "correctAnswer": "Martedì",
+    "time": 1
+  },
+  {
+    "question": "Come si chiama il giorno che in italiano è 'Mercoledì'?",
+    "options": [
+      "Mércores",
+      "Mercordì",
+      "Miércoles",
+      "Miercor"
+    ],
+    "correctAnswer": "Miércoles",
+    "time": 1
+  },
+  {
+    "question": "¿Qué significa la palabra 'Jueves'?",
+    "options": [
+      "Giovedì",
+      "Lunedì",
+      "Venerdì",
+      "Giove"
+    ],
+    "correctAnswer": "Giovedì",
+    "time": 1
+  },
+  {
+    "question": "Quale giorno della settimana in spagnolo è 'Viernes'?",
+    "options": [
+      "Venerdì",
+      "Martedì",
+      "Sabato",
+      "Vernes"
+    ],
+    "correctAnswer": "Venerdì",
+    "time": 1
+  },
+  {
+    "question": "¿Cómo se traduce 'Sabato' en español?",
+    "options": [
+      "Sabado",
+      "Sábato",
+      "Sábado",
+      "Sabato"
+    ],
+    "correctAnswer": "Sábado",
+    "time": 2
+  },
+  {
+    "question": "L'ultimo giorno della settimana, 'Domingo', in italiano è...",
+    "options": [
+      "Sabato",
+      "Lunedì",
+      "Venerdì",
+      "Domenica"
+    ],
+    "correctAnswer": "Domenica",
+    "time": 1
+  },
+  {
+    "question": "¿Cuál es el primer día de la semana en España?",
+    "options": [
+      "Domingo",
+      "Sábado",
+      "Lunes",
+      "Martes"
+    ],
+    "correctAnswer": "Lunes",
+    "time": 2
+  },
+  {
+    "question": "Quale giorno viene prima (antes) di 'miércoles'?",
+    "options": [
+      "Lunes",
+      "Jueves",
+      "Martes",
+      "Viernes"
+    ],
+    "correctAnswer": "Martes",
+    "time": 2
+  },
+  {
+    "question": "¿Qué día viene después del 'viernes'?",
+    "options": [
+      "Domingo",
+      "Jueves",
+      "Lunes",
+      "Sábado"
+    ],
+    "correctAnswer": "Sábado",
+    "time": 2
+  },
+  {
+    "question": "Come si dice 'Gennaio' in spagnolo?",
+    "options": [
+      "Gennaro",
+      "Enero",
+      "Jenero",
+      "Janero"
+    ],
+    "correctAnswer": "Enero",
+    "time": 1
+  },
+  {
+    "question": "¿El mes de 'Febrero' corresponde al italiano...?",
+    "options": [
+      "Febbre",
+      "Fevereiro",
+      "Febbraio",
+      "Ferraio"
+    ],
+    "correctAnswer": "Febbraio",
+    "time": 1
+  },
+  {
+    "question": "Il terzo mese dell'anno, in spagnolo 'Marzo', in italiano è...",
+    "options": [
+      "Martedì",
+      "Marte",
+      "Maggio",
+      "Marzo"
+    ],
+    "correctAnswer": "Marzo",
+    "time": 1
+  },
+  {
+    "question": "¿Cómo se traduce 'Aprile' en español?",
+    "options": [
+      "Abril",
+      "Abre",
+      "April",
+      "Aprile"
+    ],
+    "correctAnswer": "Abril",
+    "time": 1
+  },
+  {
+    "question": "Il mese di 'Mayo' corrisponde a...",
+    "options": [
+      "Marzo",
+      "Maggio",
+      "Meglio",
+      "Mai"
+    ],
+    "correctAnswer": "Maggio",
+    "time": 1
+  },
+  {
+    "question": "¿Cómo se dice 'Giugno' en español?",
+    "options": [
+      "Junio",
+      "Giunio",
+      "Juno",
+      "Gugno"
+    ],
+    "correctAnswer": "Junio",
+    "time": 1
+  },
+  {
+    "question": "Cosa significa 'Julio'?",
+    "options": [
+      "Giugno",
+      "Giuliano",
+      "Luglio",
+      "Lulìo"
+    ],
+    "correctAnswer": "Luglio",
+    "time": 1
+  },
+  {
+    "question": "¿Cuál es el mes de 'Agosto' en español?",
+    "options": [
+      "Agosto",
+      "Agusto",
+      "Augosto",
+      "Gosto"
+    ],
+    "correctAnswer": "Agosto",
+    "time": 1
+  },
+  {
+    "question": "Come si traduce 'Settembre'?",
+    "options": [
+      "Setiembre",
+      "Septiembre",
+      "Settembre",
+      "Sette"
+    ],
+    "correctAnswer": "Septiembre",
+    "time": 2
+  },
+  {
+    "question": "¿Qué mes es 'Octubre' en italiano?",
+    "options": [
+      "Otto",
+      "Agosto",
+      "Ottobre",
+      "Octubre"
+    ],
+    "correctAnswer": "Ottobre",
+    "time": 1
+  },
+  {
+    "question": "Quale mese viene prima (antes) di 'diciembre'?",
+    "options": [
+      "Enero",
+      "Octubre",
+      "Noviembre",
+      "Setiembre"
+    ],
+    "correctAnswer": "Noviembre",
+    "time": 2
+  },
+  {
+    "question": "In quale mese si festeggia la 'Navidad' (il Natale)?",
+    "options": [
+      "Enero",
+      "Marzo",
+      "Agosto",
+      "Diciembre"
+    ],
+    "correctAnswer": "Diciembre",
+    "time": 1
+  },
+  {
+    "question": "¿Cómo se dice 'Estate' en español?",
+    "options": [
+      "Estade",
+      "Verano",
+      "Primavera",
+      "Calor"
+    ],
+    "correctAnswer": "Verano",
+    "time": 2
+  },
+  {
+    "question": "La stagione della 'Primavera' in spagnolo si dice...",
+    "options": [
+      "Primero",
+      "Vera",
+      "Primavera",
+      "Flores"
+    ],
+    "correctAnswer": "Primavera",
+    "time": 1
+  },
+  {
+    "question": "¿Cómo se llama la estación fría, el 'Inverno'?",
+    "options": [
+      "Inferno",
+      "Inverno",
+      "Invierno",
+      "Frío"
+    ],
+    "correctAnswer": "Invierno",
+    "time": 1
+  },
+  {
+    "question": "Cosa significa 'Otoño'?",
+    "options": [
+      "Ottone",
+      "Autunno",
+      "Otto",
+      "Stagione"
+    ],
+    "correctAnswer": "Autunno",
+    "time": 1
+  },
+  {
+    "question": "¿El mes de 'enero' (en el hemisferio norte) en qué estación está?",
+    "options": [
+      "Verano",
+      "Invierno",
+      "Otoño",
+      "Primavera"
+    ],
+    "correctAnswer": "Invierno",
+    "time": 2
+  },
+  {
+    "question": "In quale stagione solitamente si va al mare ('a la playa')?",
+    "options": [
+      "Invierno",
+      "Verano",
+      "Otoño",
+      "Primavera"
+    ],
+    "correctAnswer": "Verano",
+    "time": 1
+  },
+  {
+    "question": "¿Los meses de 'septiembre', 'octubre' y 'noviembre' son parte de qué estación?",
+    "options": [
+      "Del verano",
+      "Del otoño",
+      "Del invierno",
+      "De la primavera"
+    ],
+    "correctAnswer": "Del otoño",
+    "time": 2
+  },
+  {
+    "question": "In quale stagione sbocciano i fiori ('florecen las flores')?",
+    "options": [
+      "En primavera",
+      "En verano",
+      "En otoño",
+      "En invierno"
+    ],
+    "correctAnswer": "En primavera",
+    "time": 1
+  }
+]
