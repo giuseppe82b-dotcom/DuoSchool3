@@ -538,3 +538,4 @@ function generateCertificate(name, surname, className) {
     link.click();
 
 }
+
