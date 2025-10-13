@@ -360,4 +360,10 @@ body {
     background-color: var(--duo-blue);
     border-bottom: 4px solid var(--duo-blue-dark);
 }
-/* ===== FINE MODIFICA ===== */
+
+
+.main-banner a {
+    text-decoration: none;
+    border: none;
+    line-height: 0; /* Assicura che non ci siano spazi extra */
+}
