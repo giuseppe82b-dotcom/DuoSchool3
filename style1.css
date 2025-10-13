@@ -270,3 +270,20 @@ textarea {
     cursor: pointer;
     margin-top: 1rem;
 }
+/* Aggiungi questo in fondo al tuo file style1.css */
+
+.upload-button {
+    display: inline-block;
+    background-color: #81C784; /* Verde pastello */
+    color: white;
+    padding: 0.8rem 1.5rem;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 700;
+    text-align: center;
+    transition: background-color 0.2s;
+}
+
+.upload-button:hover {
+    background-color: #66BB6A;
+}
