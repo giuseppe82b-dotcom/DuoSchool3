@@ -19,9 +19,15 @@
 
         <div class="section-card">
             <h2><span class="step-circle">1</span> Nome Esercitazione</h2>
-            <input type="text" id="file-name" placeholder="es. biologia_cellula">
+            <input type="text" id="file-name" placeholder="es. storia_romana">
         </div>
 
+        <div class="section-card">
+            <h2><span class="step-circle">?</span> Modifica un'Esercitazione Esistente</h2>
+            <p>Carica un file .json per aggiungere nuove domande o per modificarlo.</p>
+            <label for="upload-json-input" class="upload-button">Carica File .json</label>
+            <input type="file" id="upload-json-input" accept=".json" style="display: none;">
+        </div>
         <div class="creation-grid">
 
             <div class="section-card">
@@ -72,7 +78,7 @@
                     <button type="submit" class="submit-button">Aggiungi Domanda</button>
                 </form>
             </div>
-            </div>
+        </div>
 
         <div class="section-card">
             <h2><span class="step-circle">3</span> Anteprima Domande</h2>
