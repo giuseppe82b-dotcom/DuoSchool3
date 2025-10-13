@@ -1,10 +1,10 @@
 /* --- Variabili Colori Pastello --- */
 :root {
-    --bg-color: #1CB0F6; /* Azzurro pastello */
+    --bg-color: #1CB0F6; 
     --card-bg: #FFFFFF;
-    --header-text: #2B70C9; /* Verde acqua scuro */
+    --header-text: #2B70C9; 
     --section-title: #00ACC1; /* Ciano */
-    --button-primary-bg: #2B70C9; /* Verde acqua */
+    --button-primary-bg: #2B70C9; 
     --button-primary-hover: #2B70C9;
     --button-secondary-bg: #2B70C9; /* Arancione pastello */
     --button-secondary-hover: #2B70C9;
@@ -287,3 +287,4 @@ textarea {
 .upload-button:hover {
     background-color: #2B70C9;
 }
+
