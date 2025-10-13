@@ -6,15 +6,15 @@ document.addEventListener('DOMContentLoaded', () => {
     const formMultipleChoice = document.getElementById('form-multiple-choice');
     const formTrueFalse = document.getElementById('form-true-false');
     const formSentenceRebuild = document.getElementById('form-sentence-rebuild');
-    const formMatching = document.getElementById('form-matching'); // Nuovo riferimento
+    const formMatching = document.getElementById('form-matching');
     
     const questionsPreview = document.getElementById('questions-preview');
     const generateJsonButton = document.getElementById('generate-json-button');
     const fileNameInput = document.getElementById('file-name');
+    const uploadJsonInput = document.getElementById('upload-json-input'); // Nuovo riferimento
 
     // --- FUNZIONI DI GESTIONE DEI MODULI ---
 
-    // Aggiunge una nuova riga per un'opzione (Scelta Multipla)
     function addOptionInput(container) {
         const div = document.createElement('div');
         div.className = 'option-entry';
@@ -36,7 +36,6 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // Aggiunge una nuova riga per una coppia (Abbinamenti)
     function addPairInput(container) {
         const div = document.createElement('div');
         div.className = 'pair-entry';
@@ -115,7 +114,7 @@ document.addEventListener('DOMContentLoaded', () => {
         formSentenceRebuild.reset();
     });
     
-    // 4. Abbinamenti (NUOVO)
+    // 4. Abbinamenti
     const pairsContainer = formMatching.querySelector('.pairs-container');
     formMatching.querySelector('.add-pair-button').addEventListener('click', () => addPairInput(pairsContainer));
     formMatching.addEventListener('submit', (e) => {
@@ -144,6 +143,40 @@ document.addEventListener('DOMContentLoaded', () => {
         addPairInput(pairsContainer);
         addPairInput(pairsContainer);
     });
+    
+    // ===== INIZIO NUOVA LOGICA =====
+    // Gestore per il caricamento di un file JSON esistente
+    uploadJsonInput.addEventListener('change', (event) => {
+        const file = event.target.files[0];
+        if (!file) {
+            return;
+        }
+
+        const reader = new FileReader();
+        reader.onload = (e) => {
+            try {
+                const loadedQuestions = JSON.parse(e.target.result);
+                // Validazione semplice per assicurarsi che sia un array
+                if (Array.isArray(loadedQuestions)) {
+                    questions = loadedQuestions; // Sostituisce le domande attuali con quelle caricate
+                    renderQuestionsPreview();
+                    // Imposta il nome del file (senza estensione) nel campo del nome
+                    fileNameInput.value = file.name.replace(/\.json$/, '');
+                    alert(`${questions.length} domande caricate con successo!`);
+                } else {
+                    alert("Errore: il file JSON non contiene un array di domande valido.");
+                }
+            } catch (error) {
+                alert(`Errore nella lettura del file: ${error.message}`);
+            }
+        };
+        reader.readAsText(file);
+        
+        // Resetta l'input per permettere di ricaricare lo stesso file
+        uploadJsonInput.value = '';
+    });
+    // ===== FINE NUOVA LOGICA =====
+
 
     // --- FUNZIONI GLOBALI (Anteprima e Generazione JSON) ---
     function renderQuestionsPreview() {
@@ -161,7 +194,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 details = `<p><strong>Tipo:</strong> Vero/Falso<br><strong>Risposta:</strong> ${q.correctAnswer}</p>`;
             } else if (q.type === 'ricostruisci_frase') {
                 details = `<p><strong>Tipo:</strong> Ricostruisci Frase<br><strong>Frase:</strong> ${q.sentence}</p>`;
-            } else if (q.type === 'abbinamenti') { // NUOVO
+            } else if (q.type === 'abbinamenti') {
                 details = '<ul>' + q.pairs.map(p => `<li>${p[0]} → ${p[1]}</li>`).join('') + '</ul>';
             } else {
                 details = '<ul>' + q.options.map(opt => `<li class="${opt === q.correctAnswer ? 'correct' : ''}">${opt}</li>`).join('') + '</ul>';
