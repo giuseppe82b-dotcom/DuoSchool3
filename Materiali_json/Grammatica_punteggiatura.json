@@ -1,0 +1,542 @@
+[
+  {
+    "question": "Quale punteggiatura va alla fine di una frase che esprime un comando o una forte emozione?",
+    "options": [
+      "Punto interrogativo (?)",
+      "Punto fermo (.)",
+      "Punto esclamativo (!)",
+      "Virgola (,)"
+    ],
+    "correctAnswer": "Punto esclamativo (!)",
+    "time": 1
+  },
+  {
+    "question": "Scegli la frase in cui la virgola è usata correttamente per un elenco.",
+    "options": [
+      "Ho comprato pane, latte, uova.",
+      "Ho comprato, pane, latte uova.",
+      "Ho comprato pane latte, uova.",
+      "Ho comprato pane latte uova,"
+    ],
+    "correctAnswer": "Ho comprato pane, latte, uova.",
+    "time": 2
+  },
+  {
+    "question": "In quale di queste frasi manca il punto interrogativo?",
+    "options": [
+      "Che bella giornata.",
+      "Mi piace la pizza!",
+      "Vuoi venire al cinema con me.",
+      "Domani andrò al parco."
+    ],
+    "correctAnswer": "Vuoi venire al cinema con me.",
+    "time": 1
+  },
+  {
+    "question": "I due punti (:) si usano per introdurre...",
+    "options": [
+      "Una domanda.",
+      "Un elenco o una spiegazione.",
+      "Una breve pausa.",
+      "La fine della frase."
+    ],
+    "correctAnswer": "Un elenco o una spiegazione.",
+    "time": 2
+  },
+  {
+    "question": "Completa la frase con la punteggiatura corretta: 'Che ore sono___'",
+    "options": [
+      ".",
+      "!",
+      "?",
+      ","
+    ],
+    "correctAnswer": "?",
+    "time": 1
+  },
+  {
+    "question": "Quale frase usa correttamente il punto e virgola (;)?",
+    "options": [
+      "Oggi c'è il sole; domani è prevista pioggia.",
+      "Mi piace leggere; e scrivere.",
+      "Vado al mare; perché fa caldo.",
+      "Luca mangia la mela; Sara."
+    ],
+    "correctAnswer": "Oggi c'è il sole; domani è prevista pioggia.",
+    "time": 2
+  },
+  {
+    "question": "Le virgolette (« ») si usano principalmente per...",
+    "options": [
+      "Separare due frasi.",
+      "Finire un discorso.",
+      "Racchiudere un discorso diretto o una citazione.",
+      "Indicare una pausa."
+    ],
+    "correctAnswer": "Racchiudere un discorso diretto o una citazione.",
+    "time": 2
+  },
+  {
+    "question": "Vero o Falso: La virgola si mette sempre prima della congiunzione 'e'.",
+    "options": [
+      "Vero",
+      "Falso"
+    ],
+    "correctAnswer": "Falso",
+    "time": 2
+  },
+  {
+    "question": "Quale frase è scritta correttamente?",
+    "options": [
+      "Mamma ha detto: Fate i compiti.",
+      "Mamma ha detto: 'fate i compiti!'",
+      "Mamma ha detto: \"Fate i compiti!\".",
+      "Mamma ha detto \"Fate i compiti\"."
+    ],
+    "correctAnswer": "Mamma ha detto: \"Fate i compiti!\".",
+    "time": 2
+  },
+  {
+    "question": "L'apostrofo in 'l'amica' indica...",
+    "options": [
+      "Un errore.",
+      "La caduta di una vocale (elisione).",
+      "Che la parola è straniera.",
+      "Che la frase è una domanda."
+    ],
+    "correctAnswer": "La caduta di una vocale (elisione).",
+    "time": 1
+  },
+  {
+    "question": "Inserisci la punteggiatura mancante: 'Marco, mio fratello___ è molto simpatico.'",
+    "options": [
+      ".",
+      ",",
+      ":",
+      ";"
+    ],
+    "correctAnswer": ",",
+    "time": 1
+  },
+  {
+    "question": "Il punto fermo (.) indica:",
+    "options": [
+      "Una pausa breve.",
+      "L'inizio di un elenco.",
+      "Una domanda.",
+      "La fine di una frase e una pausa lunga."
+    ],
+    "correctAnswer": "La fine di una frase e una pausa lunga.",
+    "time": 1
+  },
+  {
+    "question": "Quale punteggiatura useresti per inserire una precisazione non indispensabile in una frase?",
+    "options": [
+      "I due punti (:)",
+      "Il punto e virgola (;)",
+      "Le parentesi tonde ( )",
+      "Il punto interrogativo (?)"
+    ],
+    "correctAnswer": "Le parentesi tonde ( )",
+    "time": 2
+  },
+  {
+    "question": "Scegli la frase corretta.",
+    "options": [
+      "Perché, non sei venuto?",
+      "Perché non sei venuto?",
+      "Perché non sei venuto.",
+      "Perché non sei venuto!"
+    ],
+    "correctAnswer": "Perché non sei venuto?",
+    "time": 1
+  },
+  {
+    "question": "Vero o Falso: Dopo il punto esclamativo la parola successiva inizia sempre con la lettera maiuscola.",
+    "options": [
+      "Vero",
+      "Falso"
+    ],
+    "correctAnswer": "Vero",
+    "time": 2
+  },
+  {
+    "question": "Cosa manca in questa frase: 'Che meraviglia___'",
+    "options": [
+      "!",
+      "?",
+      ".",
+      ","
+    ],
+    "correctAnswer": "!",
+    "time": 1
+  },
+  {
+    "question": "Nella frase 'Ho studiato molto, quindi spero di prendere un bel voto', la virgola separa:",
+    "options": [
+      "Due nomi.",
+      "Due frasi collegate.",
+      "Un elenco.",
+      "Un discorso diretto."
+    ],
+    "correctAnswer": "Due frasi collegate.",
+    "time": 2
+  },
+  {
+    "question": "Quale di queste parole richiede l'apostrofo?",
+    "options": [
+      "un albero",
+      "un amica",
+      "un orso",
+      "un aereo"
+    ],
+    "correctAnswer": "un amica",
+    "time": 1
+  },
+  {
+    "question": "La frase 'I colori che preferisco sono: rosso, blu e verde' è corretta?",
+    "options": [
+      "Sì, i due punti introducono un elenco.",
+      "No, ci vuole il punto e virgola.",
+      "No, non ci vuole nessuna punteggiatura.",
+      "No, ci vuole la virgola."
+    ],
+    "correctAnswer": "Sì, i due punti introducono un elenco.",
+    "time": 2
+  },
+  {
+    "question": "Dove metteresti il punto fermo? 'La lezione è finita potete andare a casa'",
+    "options": [
+      "Dopo 'finita'",
+      "Dopo 'potete'",
+      "Dopo 'casa'",
+      "Dopo 'lezione'"
+    ],
+    "correctAnswer": "Dopo 'finita'",
+    "time": 1
+  },
+  {
+    "question": "Quale frase non ha senso a causa della punteggiatura sbagliata?",
+    "options": [
+      "Vado a mangiare, nonna!",
+      "Vado a mangiare nonna!",
+      "Nonna, vado a mangiare!",
+      "Vado a mangiare. Arrivo, nonna!"
+    ],
+    "correctAnswer": "Vado a mangiare nonna!",
+    "time": 2
+  },
+  {
+    "question": "Completa con l'apostrofo dove serve: 'lo albero è diventato un albero altissimo.'",
+    "options": [
+      "l'albero",
+      "un'albero",
+      "entrambi",
+      "nessuno dei due"
+    ],
+    "correctAnswer": "l'albero",
+    "time": 1
+  },
+  {
+    "question": "In quale frase le parentesi sono usate correttamente?",
+    "options": [
+      "La II Guerra Mondiale (1939-1945) fu un evento terribile.",
+      "La (II) Guerra Mondiale 1939-1945 fu un evento terribile.",
+      "La II Guerra Mondiale 1939-1945 (fu un evento terribile).",
+      "La II Guerra (Mondiale) 1939-1945 fu un evento terribile."
+    ],
+    "correctAnswer": "La II Guerra Mondiale (1939-1945) fu un evento terribile.",
+    "time": 2
+  },
+  {
+    "question": "Il punto e virgola (;) indica una pausa...",
+    "options": [
+      "Più forte del punto.",
+      "Più debole della virgola.",
+      "Più forte della virgola, ma più debole del punto.",
+      "Uguale alla virgola."
+    ],
+    "correctAnswer": "Più forte della virgola, ma più debole del punto.",
+    "time": 2
+  },
+  {
+    "question": "Quale parola va apostrofata?",
+    "options": [
+      "Qual è",
+      "Poco fa",
+      "Un po",
+      "Tale è"
+    ],
+    "correctAnswer": "Un po",
+    "time": 1
+  },
+  {
+    "question": "Scegli la frase con la punteggiatura corretta.",
+    "options": [
+      "Luca il mio cane, abbaia sempre.",
+      "Luca, il mio cane abbaia sempre.",
+      "Luca, il mio cane, abbaia sempre.",
+      "Luca il mio cane abbaia, sempre."
+    ],
+    "correctAnswer": "Luca, il mio cane, abbaia sempre.",
+    "time": 2
+  },
+  {
+    "question": "A cosa servono i due punti in questa frase? 'Il risultato è chiaro: abbiamo vinto.'",
+    "options": [
+      "A introdurre un elenco.",
+      "A introdurre una domanda.",
+      "A introdurre una spiegazione o una conseguenza.",
+      "A separare due nomi."
+    ],
+    "correctAnswer": "A introdurre una spiegazione o una conseguenza.",
+    "time": 2
+  },
+  {
+    "question": "Quale punteggiatura chiude una domanda che esprime anche sorpresa?",
+    "options": [
+      "?!",
+      "??",
+      "!!",
+      ".!"
+    ],
+    "correctAnswer": "?!",
+    "time": 1
+  },
+  {
+    "question": "Vero o Falso: Non si mette mai la virgola tra soggetto e verbo.",
+    "options": [
+      "Vero",
+      "Falso"
+    ],
+    "correctAnswer": "Vero",
+    "time": 2
+  },
+  {
+    "question": "Inserisci la punteggiatura: 'Mi serve il quaderno___ la penna e la matita.'",
+    "options": [
+      ",",
+      ";",
+      ".",
+      ":"
+    ],
+    "correctAnswer": ",",
+    "time": 1
+  },
+  {
+    "question": "Quale frase usa correttamente il discorso diretto?",
+    "options": [
+      "Paolo disse: \"Vengo subito\".",
+      "Paolo disse: Vengo subito.",
+      "Paolo disse \"Vengo subito\"",
+      "Paolo disse, \"Vengo subito\"."
+    ],
+    "correctAnswer": "Paolo disse: \"Vengo subito\".",
+    "time": 2
+  },
+  {
+    "question": "L'apostrofo si usa in 'sta sera'?",
+    "options": [
+      "Sì, diventa 'st'asera'.",
+      "No, si scrive stasera.",
+      "Sì, diventa 'sta'sera'.",
+      "A volte."
+    ],
+    "correctAnswer": "No, si scrive stasera.",
+    "time": 1
+  },
+  {
+    "question": "Quando si usa il punto esclamativo?",
+    "options": [
+      "Solo per esprimere rabbia.",
+      "Per indicare sorpresa, gioia, dolore o un ordine.",
+      "Alla fine di ogni frase.",
+      "Per fare una domanda."
+    ],
+    "correctAnswer": "Per indicare sorpresa, gioia, dolore o un ordine.",
+    "time": 2
+  },
+  {
+    "question": "Cosa manca? 'Uffa___ non ne posso più___'",
+    "options": [
+      ", / .",
+      "! / !",
+      "? / .",
+      ". / !"
+    ],
+    "correctAnswer": "! / !",
+    "time": 1
+  },
+  {
+    "question": "La frase 'Mentre mangio, ascolto la musica' è corretta?",
+    "options": [
+      "No, la virgola non ci vuole.",
+      "Sì, la virgola separa la frase secondaria dalla principale.",
+      "No, ci vuole il punto e virgola.",
+      "No, la virgola va dopo 'ascolto'."
+    ],
+    "correctAnswer": "Sì, la virgola separa la frase secondaria dalla principale.",
+    "time": 2
+  },
+  {
+    "question": "Quale di queste forme è corretta?",
+    "options": [
+      "Qual'è",
+      "Quale è",
+      "Qual è",
+      "Qualle'"
+    ],
+    "correctAnswer": "Qual è",
+    "time": 2
+  },
+  {
+    "question": "In quale caso NON si usa l'apostrofo?",
+    "options": [
+      "davanti a un nome femminile che inizia per vocale (un'idea)",
+      "con l'articolo 'lo' davanti a un nome che inizia per vocale (l'orologio)",
+      "con l'aggettivo 'bello' (bell'uomo)",
+      "con l'articolo indeterminativo 'un' davanti a un nome maschile (un amico)"
+    ],
+    "correctAnswer": "con l'articolo indeterminativo 'un' davanti a un nome maschile (un amico)",
+    "time": 2
+  },
+  {
+    "question": "Dove va messa la virgola? 'Se avessi studiato di più ora saprei la risposta.'",
+    "options": [
+      "Dopo 'studiato'",
+      "Dopo 'più'",
+      "Dopo 'ora'",
+      "Non ci vuole"
+    ],
+    "correctAnswer": "Dopo 'più'",
+    "time": 1
+  },
+  {
+    "question": "Vero o Falso: Il punto e virgola può essere usato per separare gli elementi di un elenco complesso.",
+    "options": [
+      "Vero",
+      "Falso"
+    ],
+    "correctAnswer": "Vero",
+    "time": 2
+  },
+  {
+    "question": "Cosa significa il punto alla fine di una frase?",
+    "options": [
+      "Che la frase è incompleta.",
+      "Che il pensiero è concluso.",
+      "Che c'è una forte emozione.",
+      "Che si deve fare una domanda."
+    ],
+    "correctAnswer": "Che il pensiero è concluso.",
+    "time": 1
+  },
+  {
+    "question": "Scegli la frase con la punteggiatura errata.",
+    "options": [
+      "Oggi è una bella giornata!",
+      "Hai fatto i compiti?",
+      "Verrò domani, se non piove.",
+      "Il libro che, sto leggendo è avvincente."
+    ],
+    "correctAnswer": "Il libro che, sto leggendo è avvincente.",
+    "time": 2
+  },
+  {
+    "question": "Completa la frase: 'Attento a non cadere___'",
+    "options": [
+      ".",
+      ",",
+      "!",
+      "?"
+    ],
+    "correctAnswer": "!",
+    "time": 1
+  },
+  {
+    "question": "A cosa serve la virgola in 'Allora, cosa facciamo?'",
+    "options": [
+      "A separare un elenco.",
+      "A isolare un'interiezione o un vocativo.",
+      "A separare soggetto e verbo.",
+      "È un errore."
+    ],
+    "correctAnswer": "A isolare un'interiezione o un vocativo.",
+    "time": 2
+  },
+  {
+    "question": "Quale punteggiatura si usa per segnalare che una parola è usata in senso ironico?",
+    "options": [
+      "Le parentesi ( )",
+      "Le virgolette \" \"",
+      "Il punto e virgola ;",
+      "I due punti :"
+    ],
+    "correctAnswer": "Le virgolette \" \"",
+    "time": 2
+  },
+  {
+    "question": "Se dico 'Aiuto!', quale segno di punteggiatura sto usando implicitamente?",
+    "options": [
+      "Punto interrogativo",
+      "Punto e virgola",
+      "Punto esclamativo",
+      "Virgola"
+    ],
+    "correctAnswer": "Punto esclamativo",
+    "time": 1
+  },
+  {
+    "question": "In quale frase i due punti sono usati in modo errato?",
+    "options": [
+      "Ho comprato: pane, latte e frutta.",
+      "Questo è il problema: non ho studiato.",
+      "Domani: andrò al mare.",
+      "Ha detto una sola parola: \"Grazie\"."
+    ],
+    "correctAnswer": "Domani: andrò al mare.",
+    "time": 2
+  },
+  {
+    "question": "Vero o Falso: 'd'accordo' si scrive con l'apostrofo.",
+    "options": [
+      "Vero",
+      "Falso"
+    ],
+    "correctAnswer": "Vero",
+    "time": 1
+  },
+  {
+    "question": "Completa la frase: 'Luigi___ il fratello di Sara___ è arrivato.'",
+    "options": [
+      ", / ,",
+      ". / .",
+      "; / ;",
+      ": / ."
+    ],
+    "correctAnswer": ", / ,",
+    "time": 1
+  },
+  {
+    "question": "Cosa esprime il punto interrogativo?",
+    "options": [
+      "Un ordine.",
+      "Un'incertezza o una domanda.",
+      "Una conclusione.",
+      "Una sorpresa."
+    ],
+    "correctAnswer": "Un'incertezza o una domanda.",
+    "time": 1
+  },
+  {
+    "question": "Quale frase richiede obbligatoriamente il punto alla fine?",
+    "options": [
+      "Che bello",
+      "Quando arrivi",
+      "Ho finito i compiti",
+      "Aiuto"
+    ],
+    "correctAnswer": "Ho finito i compiti",
+    "time": 1
+  }
+]
