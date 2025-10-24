@@ -1,0 +1,451 @@
+[
+  {
+    "question": "En español se dice 'Hola', ¿cómo se dice en italiano para saludar a un amigo?",
+    "options": [
+      "Arrivederci",
+      "Ciao",
+      "Grazie",
+      "Scusa"
+    ],
+    "correctAnswer": "Ciao",
+    "time": 1
+  },
+  {
+    "question": "Vero o Falso: La parola italiana 'cane' significa 'perro' en español.",
+    "options": [
+      "Vero",
+      "Falso"
+    ],
+    "correctAnswer": "Vero",
+    "time": 1
+  },
+  {
+    "question": "Elige la palabra correcta para completar la frase: 'Io ___ una bambina.' (Yo soy una niña)",
+    "options": [
+      "siamo",
+      "è",
+      "sono",
+      "sei"
+    ],
+    "correctAnswer": "sono",
+    "time": 2
+  },
+  {
+    "question": "¿Cuál de estas palabras es un color en italiano?",
+    "options": [
+      "Casa",
+      "Libro",
+      "Giallo",
+      "Mela"
+    ],
+    "correctAnswer": "Giallo",
+    "time": 1
+  },
+  {
+    "question": "Reconstruye la frase. Pon en orden estas palabras: 'chiami / ti / come / ?'",
+    "options": [
+      "Ti come chiami?",
+      "Come ti chiami?",
+      "Chiami come ti?",
+      "Come chiami ti?"
+    ],
+    "correctAnswer": "Come ti chiami?",
+    "time": 2
+  },
+  {
+    "question": "La palabra 'gatto' en italiano, ¿qué animal es en español?",
+    "options": [
+      "Un pez (pesce)",
+      "Un pájaro (uccello)",
+      "Un perro (cane)",
+      "Un gato"
+    ],
+    "correctAnswer": "Un gato",
+    "time": 1
+  },
+  {
+    "question": "Vero o Falso: 'Buonanotte' se usa para decir 'buenos días'.",
+    "options": [
+      "Vero",
+      "Falso"
+    ],
+    "correctAnswer": "Falso",
+    "time": 1
+  },
+  {
+    "question": "Asocia la palabra en italiano con la correcta en español. La palabra es 'mela'.",
+    "options": [
+      "Pera",
+      "Manzana",
+      "Naranja",
+      "Uva"
+    ],
+    "correctAnswer": "Manzana",
+    "time": 1
+  },
+  {
+    "question": "¿Qué número es 'tre' en italiano?",
+    "options": [
+      "Uno (1)",
+      "Dos (2)",
+      "Tres (3)",
+      "Cuatro (4)"
+    ],
+    "correctAnswer": "Tres (3)",
+    "time": 1
+  },
+  {
+    "question": "Elige la palabra correcta para la imagen de una casa.",
+    "options": [
+      "Scuola",
+      "Casa",
+      "Tavolo",
+      "Sedia"
+    ],
+    "correctAnswer": "Casa",
+    "time": 1
+  },
+  {
+    "question": "Reconstruye la frase. Pon en orden estas palabras: 'anni / ho / Sette / .'",
+    "options": [
+      "Sette ho anni.",
+      "Anni sette ho.",
+      "Ho sette anni.",
+      "Ho anni sette."
+    ],
+    "correctAnswer": "Ho sette anni.",
+    "time": 2
+  },
+  {
+    "question": "Asocia la palabra en italiano con la correcta en español. La palabra es 'acqua'.",
+    "options": [
+      "Leche (latte)",
+      "Pan (pane)",
+      "Jugo (succo)",
+      "Agua"
+    ],
+    "correctAnswer": "Agua",
+    "time": 1
+  },
+  {
+    "question": "Se in spagnolo dici 'hermana', in italiano come si dice?",
+    "options": [
+      "Fratello",
+      "Sorella",
+      "Mamma",
+      "Papà"
+    ],
+    "correctAnswer": "Sorella",
+    "time": 1
+  },
+  {
+    "question": "Il colore del sole è 'giallo'. Il colore di una fragola (fresa) è...",
+    "options": [
+      "Blu",
+      "Verde",
+      "Rosso",
+      "Nero"
+    ],
+    "correctAnswer": "Rosso",
+    "time": 1
+  },
+  {
+    "question": "Vero o Falso: La parola italiana 'freddo' significa 'caliente' en español.",
+    "options": [
+      "Vero",
+      "Falso"
+    ],
+    "correctAnswer": "Falso",
+    "time": 2
+  },
+  {
+    "question": "Cosa significa 'mangiare'?",
+    "options": [
+      "Beber",
+      "Dormir",
+      "Jugar",
+      "Comer"
+    ],
+    "correctAnswer": "Comer",
+    "time": 1
+  },
+  {
+    "question": "Reconstruye la frase. Pon en orden estas palabras: 'Mio / Il / è / nome / Luca.'",
+    "options": [
+      "Luca è nome Il mio.",
+      "Il mio nome è Luca.",
+      "Nome mio Il è Luca.",
+      "È Luca Il mio nome."
+    ],
+    "correctAnswer": "Il mio nome è Luca.",
+    "time": 2
+  },
+  {
+    "question": "Asocia la palabra italiana 'libro' con la imagen correcta.",
+    "options": [
+      "Un cuaderno (quaderno)",
+      "Un lápiz (matita)",
+      "Un libro",
+      "Una goma (gomma)"
+    ],
+    "correctAnswer": "Un libro",
+    "time": 1
+  },
+  {
+    "question": "Per ringraziare una persona in italiano si dice...",
+    "options": [
+      "Prego",
+      "Per favore",
+      "Grazie",
+      "Buongiorno"
+    ],
+    "correctAnswer": "Grazie",
+    "time": 1
+  },
+  {
+    "question": "Che numero è 'cinque'?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": "5",
+    "time": 1
+  },
+  {
+    "question": "Vero o Falso: La parola 'felice' in italiano significa 'feliz' en español.",
+    "options": [
+      "Vero",
+      "Falso"
+    ],
+    "correctAnswer": "Vero",
+    "time": 1
+  },
+  {
+    "question": "Dove vanno i bambini per imparare a leggere e scrivere?",
+    "options": [
+      "Al parco",
+      "A scuola",
+      "Al cinema",
+      "A casa"
+    ],
+    "correctAnswer": "A scuola",
+    "time": 1
+  },
+  {
+    "question": "Elige la palabra correcta para completar la frase: 'Mi piace ___ con la palla.' (Me gusta jugar con la pelota)",
+    "options": [
+      "dormire",
+      "leggere",
+      "giocare",
+      "scrivere"
+    ],
+    "correctAnswer": "giocare",
+    "time": 2
+  },
+  {
+    "question": "Quando vai via, dici 'adiós'. In italiano puoi dire...",
+    "options": [
+      "Ciao",
+      "Buongiorno",
+      "Arrivederci",
+      "Benvenuta"
+    ],
+    "correctAnswer": "Arrivederci",
+    "time": 1
+  },
+  {
+    "question": "Asocia la palabra en italiano con la correcta en español. La palabra es 'fratello'.",
+    "options": [
+      "Hermana (sorella)",
+      "Madre (mamma)",
+      "Padre (papà)",
+      "Hermano"
+    ],
+    "correctAnswer": "Hermano",
+    "time": 1
+  },
+  {
+    "question": "L'erba (el pasto) del prato è di colore...",
+    "options": [
+      "Verde",
+      "Bianco",
+      "Rosa",
+      "Arancione"
+    ],
+    "correctAnswer": "Verde",
+    "time": 1
+  },
+  {
+    "question": "Reconstruye la frase. Pon en orden estas palabras: 'piace / mi / La / pizza.'",
+    "options": [
+      "Pizza mi piace La.",
+      "La mi piace pizza.",
+      "Mi piace la pizza.",
+      "Piace la mi pizza."
+    ],
+    "correctAnswer": "Mi piace la pizza.",
+    "time": 2
+  },
+  {
+    "question": "Vero o Falso: La parola italiana 'grande' significa 'pequeño'.",
+    "options": [
+      "Vero",
+      "Falso"
+    ],
+    "correctAnswer": "Falso",
+    "time": 1
+  },
+  {
+    "question": "Cosa fai nel tuo letto (letto) di notte?",
+    "options": [
+      "Corro (corro)",
+      "Mangio (como)",
+      "Dormo (duermo)",
+      "Ballo (bailo)"
+    ],
+    "correctAnswer": "Dormo (duermo)",
+    "time": 1
+  },
+  {
+    "question": "Come si chiama la stella gialla che ci illumina di giorno?",
+    "options": [
+      "Luna",
+      "Stella",
+      "Pianeta",
+      "Sole"
+    ],
+    "correctAnswer": "Sole",
+    "time": 1
+  },
+  {
+    "question": "Che numero viene dopo 'sette' (7)?",
+    "options": [
+      "Sei (6)",
+      "Nove (9)",
+      "Otto (8)",
+      "Dieci (10)"
+    ],
+    "correctAnswer": "Otto (8)",
+    "time": 2
+  },
+  {
+    "question": "Asocia la palabra en italiano con la correcta en español. La palabra es 'madre'.",
+    "options": [
+      "Tía (zia)",
+      "Abuela (nonna)",
+      "Madre",
+      "Prima (cugina)"
+    ],
+    "correctAnswer": "Madre",
+    "time": 1
+  },
+  {
+    "question": "Elige la palabra correcta para completar la frase: 'Il gatto ___ sul divano.' (El gato duerme en el sofá)",
+    "options": [
+      "corre",
+      "mangia",
+      "beve",
+      "dorme"
+    ],
+    "correctAnswer": "dorme",
+    "time": 2
+  },
+  {
+    "question": "Vero o Falso: La parola 'amico' significa 'amigo'.",
+    "options": [
+      "Vero",
+      "Falso"
+    ],
+    "correctAnswer": "Vero",
+    "time": 1
+  },
+  {
+    "question": "Reconstruye la frase. Pon en orden estas palabras: 'un / ho / cane / Io.'",
+    "options": [
+      "Cane un ho Io.",
+      "Io un cane ho.",
+      "Ho cane un Io.",
+      "Io ho un cane."
+    ],
+    "correctAnswer": "Io ho un cane.",
+    "time": 2
+  },
+  {
+    "question": "Come si dice 'por favor' in italiano?",
+    "options": [
+      "Scusa",
+      "Per favore",
+      "Prego",
+      "Permesso"
+    ],
+    "correctAnswer": "Per favore",
+    "time": 1
+  },
+  {
+    "question": "Asocia la palabra en italiano con la correcta en español. La palabra es 'bambino'.",
+    "options": [
+      "Niña",
+      "Niño",
+      "Hombre (uomo)",
+      "Mujer (donna)"
+    ],
+    "correctAnswer": "Niño",
+    "time": 1
+  },
+  {
+    "question": "Che cosa bevi quando hai sete (sed)?",
+    "options": [
+      "Pane",
+      "Pasta",
+      "Acqua",
+      "Carne"
+    ],
+    "correctAnswer": "Acqua",
+    "time": 1
+  },
+  {
+    "question": "Il contrario di 'triste' è...",
+    "options": [
+      "Arrabbiato (enojado)",
+      "Felice (feliz)",
+      "Stanco (cansado)",
+      "Annoiato (aburrido)"
+    ],
+    "correctAnswer": "Felice (feliz)",
+    "time": 2
+  },
+  {
+    "question": "Reconstruye la frase. Pon en orden estas palabras: 'è / Il / blu / cielo.'",
+    "options": [
+      "Cielo Il blu è.",
+      "Blu è il cielo.",
+      "Il cielo è blu.",
+      "È blu Il cielo."
+    ],
+    "correctAnswer": "Il cielo è blu.",
+    "time": 2
+  },
+  {
+    "question": "Come si chiama il papà di tuo papà?",
+    "options": [
+      "Zio",
+      "Fratello",
+      "Nipote",
+      "Nonno"
+    ],
+    "correctAnswer": "Nonno",
+    "time": 1
+  },
+  {
+    "question": "Vero o Falso: 'Scrivere' significa 'leer'.",
+    "options": [
+      "Vero",
+      "Falso"
+    ],
+    "correctAnswer": "Falso",
+    "time": 1
+  }
+
+]

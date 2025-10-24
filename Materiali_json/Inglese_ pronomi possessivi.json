@@ -1,0 +1,129 @@
+[
+  {
+    "question": "Quale parola completa correttamente la frase: 'This is my book. The book is ______.'?",
+    "options": [
+      "my",
+      "me",
+      "mine",
+      "I"
+    ],
+    "correctAnswer": "mine",
+    "time": 1
+  },
+  {
+    "question": "La frase 'That red car is hers' è corretta?",
+    "options": [
+      "Sì, significa 'Quella macchina rossa è sua (di lei)'.",
+      "No, si dovrebbe dire 'her'.",
+      "No, i pronomi non vanno mai a fine frase."
+    ],
+    "correctAnswer": "Sì, significa 'Quella macchina rossa è sua (di lei)'.",
+    "time": 2
+  },
+  {
+    "question": "Abbina il pronome personale 'They' al pronome possessivo corretto.",
+    "options": [
+      "Theirs",
+      "Their",
+      "Them",
+      "Our"
+    ],
+    "correctAnswer": "Theirs",
+    "time": 1
+  },
+  {
+    "question": "Ricostruisci la frase mettendo le parole nell'ordine giusto: 'are / These shoes / yours / ?'",
+    "options": [
+      "These shoes are yours?",
+      "Yours are these shoes?",
+      "Are these shoes yours?",
+      "Shoes are these yours?"
+    ],
+    "correctAnswer": "Are these shoes yours?",
+    "time": 2
+  },
+  {
+    "question": "Vero o Falso: La parola 'his' può essere sia un aggettivo possessivo (his book) sia un pronome possessivo (the book is his).",
+    "options": [
+      "Vero",
+      "Falso"
+    ],
+    "correctAnswer": "Vero",
+    "time": 2
+  },
+  {
+    "question": "Quale frase NON è corretta?",
+    "options": [
+      "The decision is yours.",
+      "That is not my pen, it's his.",
+      "The house is ours.",
+      "This ball is theys."
+    ],
+    "correctAnswer": "This ball is theys.",
+    "time": 2
+  },
+  {
+    "question": "Se dico 'This is your pizza', come posso dire la stessa cosa usando un pronome possessivo alla fine?",
+    "options": [
+      "This is pizza your.",
+      "This pizza is yours.",
+      "This pizza is you.",
+      "This yours pizza is."
+    ],
+    "correctAnswer": "This pizza is yours.",
+    "time": 1
+  },
+  {
+    "question": "Abbina la coppia corretta: Pronome Personale -> Pronome Possessivo",
+    "options": [
+      "We -> Our",
+      "She -> Hers",
+      "I -> My",
+      "You -> Your"
+    ],
+    "correctAnswer": "She -> Hers",
+    "time": 2
+  },
+    {
+    "question": "In quale frase 'mine' è usato correttamente?",
+    "options": [
+      "This is mine book.",
+      "Can I borrow yours? I can't find mine.",
+      "That car is mine friend's.",
+      "Mine is blue."
+    ],
+    "correctAnswer": "Can I borrow yours? I can't find mine.",
+    "time": 2
+  },
+  {
+    "question": "Vero o Falso: 'Its' (senza apostrofo) è il pronome possessivo per 'it'.",
+     "options": [
+      "Vero",
+      "Falso"
+    ],
+    "correctAnswer": "Falso",
+    "time": 2
+  },
+  {
+    "question": "Se io e te abbiamo un cane, possiamo dire...",
+    "options": [
+      "The dog is ours.",
+      "The dog is we.",
+      "The dog is our.",
+      "The dog is us."
+    ],
+    "correctAnswer": "The dog is ours.",
+    "time": 1
+  },
+  {
+    "question": "Quale pronome possessivo si usa per la seconda persona singolare (you)?",
+    "options": [
+        "Mine",
+        "Yours",
+        "His",
+        "Hers"
+    ],
+    "correctAnswer": "Yours",
+    "time": 1
+  }
+]
