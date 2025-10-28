@@ -52,3 +52,5 @@ Esempio di domande:
 
 Il sistema è a disposizione di tutti e chi vorrà migliorarlo e personalizzarlo è libero di farlo.
 Sarebbe gentile ma non obbligatorio ricordare che è stato creato dal Prof. Brunetti dell'IC comprensivo di Fino Mornasco per i suoi studenti e messo a disposizione di tutto il corpo docente.
+
+se qualche docente volesse creare dei materiali da condividere con gli altri da inserire nelle sezione online può inviarli all'indirizzo: giuseppe82b@gmail.com indicando la tipologia e l'argomento. I file vengono di solito salvati in questo modo: Materia_argomento.json
