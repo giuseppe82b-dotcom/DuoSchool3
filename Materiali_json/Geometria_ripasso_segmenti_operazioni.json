@@ -1,0 +1,323 @@
+[
+  {
+    "question": "Il percorso che fai da casa a scuola e poi da scuola alla palestra può essere visto come l'unione di due...",
+    "time": 1,
+    "options": [
+      "segmenti consecutivi.",
+      "segmenti adiacenti.",
+      "rette parallele.",
+      "punti."
+    ],
+    "correctAnswer": "segmenti consecutivi.",
+    "imageUrl": ""
+  },
+  {
+    "question": "Un elastico teso tra due chiodi su una tavola di legno è un esempio pratico di...",
+    "time": 1,
+    "options": [
+      "segmento.",
+      "retta.",
+      "semiretta.",
+      "piano."
+    ],
+    "correctAnswer": "segmento.",
+    "imageUrl": ""
+  },
+  {
+    "question": "Una retta è un insieme infinito di punti allineati che ha una sola dimensione: la lunghezza.",
+    "time": 1,
+    "type": "vero_falso",
+    "correctAnswer": "Vero",
+    "imageUrl": ""
+  },
+  {
+    "question": "Abbina ogni termine alla sua corretta definizione.",
+    "time": 1,
+    "type": "abbinamenti",
+    "pairs": [
+      [
+        "Segmenti Adiacenti",
+        "Sono consecutivi e giacciono sulla stessa retta."
+      ],
+      [
+        "Segmenti Consecutivi",
+        "Hanno un solo estremo in comune."
+      ],
+      [
+        "Segmento Multiplo",
+        "È ottenuto sommando un altro segmento più volte."
+      ],
+      [
+        "Segmento Sottomultiplo",
+        "È contenuto un numero intero di volte in un altro segmento."
+      ]
+    ],
+    "imageUrl": ""
+  },
+  {
+    "question": "Se il segmento CD è il quadruplo del segmento AB, e AB misura 5 cm, quanto misura CD?",
+    "time": 1,
+    "options": [
+      "20 cm",
+      "9 cm",
+      "1.25 cm",
+      "5 cm"
+    ],
+    "correctAnswer": "20 cm",
+    "imageUrl": ""
+  },
+  {
+    "question": "Quando due segmenti si dicono adiacenti?",
+    "time": 1,
+    "type": "ricostruisci_frase",
+    "sentence": "Due segmenti sono adiacenti se sono consecutivi e appartengono alla stessa retta",
+    "imageUrl": ""
+  },
+  {
+    "question": "In geometria, che cos'è un punto?",
+    "time": 1,
+    "options": [
+      "Un'entità adimensionale usata per indicare una posizione.",
+      "Un cerchio con un raggio molto piccolo.",
+      "Unità di misura per le lunghezze.",
+      "L'incrocio di due linee curve."
+    ],
+    "correctAnswer": "Un'entità adimensionale usata per indicare una posizione.",
+    "imageUrl": ""
+  },
+  {
+    "question": "Hai una corda (segmento AB) lunga 150 cm e ne tagli un pezzo (segmento AC) di 40 cm. Il pezzo di corda che rimane (segmento CB) rappresenta:",
+    "time": 1,
+    "options": [
+      "La differenza tra i segmenti AB e AC.",
+      "La somma dei segmenti AB e AC.",
+      "Il multiplo del segmento AC.",
+      "Un segmento uguale ad AB."
+    ],
+    "correctAnswer": "La differenza tra i segmenti AB e AC.",
+    "imageUrl": ""
+  },
+  {
+    "question": "Come si indica correttamente un segmento che ha per estremi i punti A e B?",
+    "time": 1,
+    "options": [
+      "AB",
+      "A+B",
+      "A*B",
+      "a"
+    ],
+    "correctAnswer": "AB",
+    "imageUrl": ""
+  },
+  {
+    "question": "Quando guardi una stella in una notte serena, essa ti appare come un puntino luminoso. A quale ente geometrico fondamentale puoi associare quella stella nel cielo?",
+    "time": 1,
+    "options": [
+      "A un punto.",
+      "A una retta.",
+      "A un piano.",
+      "A un segmento."
+    ],
+    "correctAnswer": "A un punto.",
+    "imageUrl": ""
+  },
+  {
+    "question": "Cosa sono due segmenti consecutivi?",
+    "time": 1,
+    "options": [
+      "Due segmenti che hanno un estremo in comune.",
+      "Due segmenti che giacciono sulla stessa retta.",
+      "Due segmenti che non si incontrano mai.",
+      "Due segmenti con la stessa lunghezza."
+    ],
+    "correctAnswer": "Due segmenti che hanno un estremo in comune.",
+    "imageUrl": ""
+  },
+  {
+    "question": "Una tavoletta di cioccolato è formata da 8 quadratini uguali in fila. La tavoletta intera è il segmento A, mentre un singolo quadratino è il segmento B. Cosa si può dire?",
+    "time": 1,
+    "options": [
+      "Il segmento B è un sottomultiplo del segmento A.",
+      "Il segmento A è un sottomultiplo del segmento B.",
+      "I due segmenti sono uguali.",
+      "I due segmenti non sono confrontabili."
+    ],
+    "correctAnswer": "Il segmento B è un sottomultiplo del segmento A.",
+    "imageUrl": ""
+  },
+  {
+    "question": "Il raggio di luce emesso da un puntatore laser può essere considerato un buon esempio di...",
+    "time": 1,
+    "options": [
+      "retta.",
+      "segmento.",
+      "punto.",
+      "piano."
+    ],
+    "correctAnswer": "retta.",
+    "imageUrl": ""
+  },
+  {
+    "question": "Un segmento è:",
+    "time": 1,
+    "options": [
+      "Una parte di retta delimitata da due punti chiamati estremi.",
+      "Una linea senza inizio né fine.",
+      "Un insieme di punti non allineati.",
+      "Una linea curva."
+    ],
+    "correctAnswer": "Una parte di retta delimitata da due punti chiamati estremi.",
+    "imageUrl": ""
+  },
+  {
+    "question": "Per preparare una torta, devi unire un pezzo di nastro da 30 cm con uno da 50 cm per decorare il bordo. Se li disponi uno dopo l'altro sulla stessa linea, ottieni un esempio di...",
+    "time": 1,
+    "options": [
+      "somma di segmenti adiacenti.",
+      "differenza di segmenti.",
+      "segmenti multipli.",
+      "sottomultipli di un segmento."
+    ],
+    "correctAnswer": "somma di segmenti adiacenti.",
+    "imageUrl": ""
+  },
+  {
+    "question": "Antonio percorre dal parco fino a casa 1 km (segmento AB), da casa a scuola il triplo di AB. Quanta strada percorre Antonio?",
+    "time": 2,
+    "options": [
+      "1 km",
+      "4 km",
+      "5 km"
+    ],
+    "correctAnswer": "4 km"
+  },
+  {
+    "question": "La corsa intera (segmento AB) corrisponde a 20 km, la prima fermata rifornimento è ad 1/5 della corsa. Dopo quanta strada ci sarà il rifornimento?",
+    "time": 1,
+    "options": [
+      "10 km",
+      "5 km",
+      "4 km"
+    ],
+    "correctAnswer": "4 km"
+  },
+  {
+    "question": "Marco va a casa, percorre 2 km (segmento AB), poi gira a sinistra per il doppio di AB (segmento CD)+ 1 km, e poi a destra per 1/7 di tutta la strada precedete. Se va e torna, quanta strada fa?",
+    "time": 1,
+    "options": [
+      "8 km",
+      "16 km",
+      "20 km"
+    ],
+    "correctAnswer": "16 km"
+  },
+  {
+    "question": "Antonio ha una corda di 15 metri, ne taglia un pezzo da 20 cm, che operazione sugli insiemi ha compiuto?",
+    "time": 1,
+    "options": [
+      "Somma",
+      "Differenza",
+      "Multiplo"
+    ],
+    "correctAnswer": "Differenza"
+  },
+  {
+    "question": "Matteo ha una corda, la divide in 10 parti e ne prende un pezzo. Che operazione ha compiuto?",
+    "time": 1,
+    "options": [
+      "Addizione",
+      "Differenza",
+      "Multiplo",
+      "Sottomultiplo"
+    ],
+    "correctAnswer": "Sottomultiplo"
+  },
+  {
+    "question": "Mattia ha due corde, una grande e una piccola, vuole sapere quante corde piccole si possono ricavare da quella grande. Che operazione sta facendo",
+    "time": 1,
+    "options": [
+      "Addizione",
+      "Differenza",
+      "Multiplo",
+      "Sottomultiplo"
+    ],
+    "correctAnswer": "Sottomultiplo"
+  },
+  {
+    "question": "Antonio ha 10 corde uguali, le lega insieme e le misura. Che operazione sta facendo?",
+    "time": 1,
+    "options": [
+      "Addizione",
+      "Differenza",
+      "Multiplo",
+      "Sottomultiplo"
+    ],
+    "correctAnswer": "Multiplo"
+  },
+  {
+    "question": "Un Punto ha una dimensione perché occupa uno spazio",
+    "time": 1,
+    "type": "vero_falso",
+    "correctAnswer": "Falso"
+  },
+  {
+    "question": "Una retta ha un inizio e una fine",
+    "time": 1,
+    "type": "vero_falso",
+    "correctAnswer": "Falso"
+  },
+  {
+    "question": "Quando disegno una retta, i trattini indicano che ha inizio e fine",
+    "time": 1,
+    "type": "vero_falso",
+    "correctAnswer": "Falso"
+  },
+  {
+    "question": "In uno spazio ci sono finite rette",
+    "time": 1,
+    "type": "vero_falso",
+    "correctAnswer": "Falso"
+  },
+  {
+    "question": "Per due punti passa una sola retta",
+    "time": 1,
+    "type": "vero_falso",
+    "correctAnswer": "Vero"
+  },
+  {
+    "question": "Per un Punto passa una retta",
+    "time": 1,
+    "type": "vero_falso",
+    "correctAnswer": "Falso"
+  },
+  {
+    "question": "Per tre Punti allineati passano due rette",
+    "time": 1,
+    "type": "vero_falso",
+    "correctAnswer": "Falso"
+  },
+  {
+    "question": "Per un Punto passano infinite rette",
+    "time": 1,
+    "type": "vero_falso",
+    "correctAnswer": "Vero"
+  },
+  {
+    "question": "Se sommo due segmenti ottengo un segmento più piccolo",
+    "time": 1,
+    "type": "vero_falso",
+    "correctAnswer": "Falso"
+  },
+  {
+    "question": "Se faccio la differenza tra due segmenti ottengo un segmento più piccolo",
+    "time": 1,
+    "type": "vero_falso",
+    "correctAnswer": "Vero"
+  },
+  {
+    "question": "Le mattonelle poste in una stanza, posso rappresentarle come dei multipli della singola mattonella.",
+    "time": 1,
+    "type": "vero_falso",
+    "correctAnswer": "Vero"
+  }
+]
