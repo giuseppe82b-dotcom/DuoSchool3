@@ -1,0 +1,431 @@
+[
+  {
+    "question": "Completa la frase: I ___ happy.",
+    "time": 1,
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correctAnswer": "am",
+    "imageUrl": "www.example.com/img1.png"
+  },
+  {
+    "question": "Completa la frase: You ___ a student.",
+    "time": 1,
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correctAnswer": "are",
+    "imageUrl": "www.example.com/img2.png"
+  },
+  {
+    "question": "Completa la frase: He ___ tall.",
+    "time": 1,
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correctAnswer": "is",
+    "imageUrl": "www.example.com/img3.png"
+  },
+  {
+    "question": "Completa la frase: She ___ from Spain.",
+    "time": 1,
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correctAnswer": "is",
+    "imageUrl": "www.example.com/img4.png"
+  },
+  {
+    "question": "Completa la frase: It ___ cold today.",
+    "time": 1,
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correctAnswer": "is",
+    "imageUrl": "www.example.com/img5.png"
+  },
+  {
+    "question": "Completa la frase: We ___ friends.",
+    "time": 1,
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correctAnswer": "are",
+    "imageUrl": "www.example.com/img6.png"
+  },
+  {
+    "question": "Completa la frase: They ___ late.",
+    "time": 1,
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correctAnswer": "are",
+    "imageUrl": "www.example.com/img7.png"
+  },
+  {
+    "question": "Scegli il pronome corretto: ___ is a doctor.",
+    "time": 1,
+    "options": [
+      "I",
+      "She",
+      "They"
+    ],
+    "correctAnswer": "She",
+    "imageUrl": "www.example.com/img8.png"
+  },
+  {
+    "question": "Scegli il pronome corretto: ___ are brothers.",
+    "time": 1,
+    "options": [
+      "He",
+      "It",
+      "We"
+    ],
+    "correctAnswer": "We",
+    "imageUrl": "www.example.com/img9.png"
+  },
+  {
+    "question": "Scegli il pronome corretto: ___ is a big dog.",
+    "time": 1,
+    "options": [
+      "It",
+      "They",
+      "You"
+    ],
+    "correctAnswer": "It",
+    "imageUrl": "www.example.com/img10.png"
+  },
+  {
+    "question": "Completa la domanda: ___ he your teacher?",
+    "time": 1,
+    "options": [
+      "Am",
+      "Is",
+      "Are"
+    ],
+    "correctAnswer": "Is",
+    "imageUrl": "www.example.com/img11.png"
+  },
+  {
+    "question": "Completa la domanda: ___ they ready?",
+    "time": 1,
+    "options": [
+      "Am",
+      "Is",
+      "Are"
+    ],
+    "correctAnswer": "Are",
+    "imageUrl": "www.example.com/img12.png"
+  },
+  {
+    "question": "Completa la domanda: ___ you OK?",
+    "time": 1,
+    "options": [
+      "Am",
+      "Is",
+      "Are"
+    ],
+    "correctAnswer": "Are",
+    "imageUrl": "www.example.com/img13.png"
+  },
+  {
+    "question": "Forma negativa: I ___ not (I'm not) tired.",
+    "time": 1,
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correctAnswer": "am",
+    "imageUrl": "www.example.com/img14.png"
+  },
+  {
+    "question": "Forma negativa: He ___ not (isn't) at home.",
+    "time": 1,
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correctAnswer": "is",
+    "imageUrl": "www.example.com/img15.png"
+  },
+  {
+    "question": "Forma negativa: We ___ not (aren't) hungry.",
+    "time": 1,
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correctAnswer": "are",
+    "imageUrl": "www.example.com/img16.png"
+  },
+  {
+    "question": "Completa la frase: My name ___ Mario.",
+    "time": 1,
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correctAnswer": "is",
+    "imageUrl": "www.example.com/img17.png"
+  },
+  {
+    "question": "Completa la frase: My parents ___ from Italy.",
+    "time": 1,
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "correctAnswer": "are",
+    "imageUrl": "www.example.com/img18.png"
+  },
+  {
+    "question": "Scegli il pronome corretto: Maria is happy. ___ is smiling.",
+    "time": 1,
+    "options": [
+      "He",
+      "She",
+      "It"
+    ],
+    "correctAnswer": "She",
+    "imageUrl": "www.example.com/img19.png"
+  },
+  {
+    "question": "Scegli il pronome corretto: The cats are sleeping. ___ are quiet.",
+    "time": 1,
+    "options": [
+      "He",
+      "She",
+      "They"
+    ],
+    "correctAnswer": "They",
+    "imageUrl": "www.example.com/img20.png"
+  },
+  {
+    "question": "La frase 'I is a teacher' è corretta.",
+    "time": 1,
+    "type": "vero_falso",
+    "correctAnswer": "Falso",
+    "imageUrl": "www.example.com/img26.png"
+  },
+  {
+    "question": "La frase 'They are happy' è corretta.",
+    "time": 1,
+    "type": "vero_falso",
+    "correctAnswer": "Vero",
+    "imageUrl": "www.example.com/img27.png"
+  },
+  {
+    "question": "La frase 'He are my friend' è corretta.",
+    "time": 1,
+    "type": "vero_falso",
+    "correctAnswer": "Falso",
+    "imageUrl": "www.example.com/img28.png"
+  },
+  {
+    "question": "'Am' si usa con 'You'.",
+    "time": 1,
+    "type": "vero_falso",
+    "correctAnswer": "Falso",
+    "imageUrl": "www.example.com/img29.png"
+  },
+  {
+    "question": "'Is' si usa con 'She'.",
+    "time": 1,
+    "type": "vero_falso",
+    "correctAnswer": "Vero",
+    "imageUrl": "www.example.com/img30.png"
+  },
+  {
+    "question": "'Are' si usa con 'We'.",
+    "time": 1,
+    "type": "vero_falso",
+    "correctAnswer": "Vero",
+    "imageUrl": "www.example.com/img31.png"
+  },
+  {
+    "question": "'It' è un pronome soggetto per oggetti o animali (singolare).",
+    "time": 1,
+    "type": "vero_falso",
+    "correctAnswer": "Vero",
+    "imageUrl": "www.example.com/img32.png"
+  },
+  {
+    "question": "'They' è solo per le persone (plurale).",
+    "time": 1,
+    "type": "vero_falso",
+    "correctAnswer": "Falso",
+    "imageUrl": "www.example.com/img33.png"
+  },
+  {
+    "question": "La forma negativa di 'He is' è 'He is'nt'.",
+    "time": 1,
+    "type": "vero_falso",
+    "correctAnswer": "Falso",
+    "imageUrl": "www.example.com/img34.png"
+  },
+  {
+    "question": "La forma contratta di 'You are' è 'You're'.",
+    "time": 1,
+    "type": "vero_falso",
+    "correctAnswer": "Vero",
+    "imageUrl": "www.example.com/img35.png"
+  },
+  {
+    "question": "Metti in ordine le parole: is / He / brother / my",
+    "time": 1,
+    "type": "ricostruisci_frase",
+    "sentence": "He is my brother",
+    "imageUrl": "www.example.com/img36.png"
+  },
+  {
+    "question": "Metti in ordine le parole: ? / are / How / you / old",
+    "time": 1,
+    "type": "ricostruisci_frase",
+    "sentence": "How old are you?",
+    "imageUrl": "www.example.com/img37.png"
+  },
+  {
+    "question": "Metti in ordine le parole: (aren't) / not / They / doctors / are",
+    "time": 1,
+    "type": "ricostruisci_frase",
+    "sentence": "They are not (aren't) doctors",
+    "imageUrl": "www.example.com/img38.png"
+  },
+  {
+    "question": "Metti in ordine le parole: nice / very / She / is",
+    "time": 1,
+    "type": "ricostruisci_frase",
+    "sentence": "She is very nice",
+    "imageUrl": "www.example.com/img39.png"
+  },
+  {
+    "question": "Metti in ordine le parole: today / It / sunny / is",
+    "time": 1,
+    "type": "ricostruisci_frase",
+    "sentence": "It is sunny today",
+    "imageUrl": "www.example.com/img40.png"
+  },
+  {
+    "question": "Abbina il pronome alla forma corretta del verbo 'essere' (forma estesa).",
+    "time": 1,
+    "type": "abbinamenti",
+    "pairs": [
+      [
+        "I",
+        "am"
+      ],
+      [
+        "He",
+        "is"
+      ],
+      [
+        "She",
+        "is"
+      ],
+      [
+        "It",
+        "is"
+      ]
+    ],
+    "imageUrl": "www.example.com/match1.png"
+  },
+  {
+    "question": "Abbina il pronome alla forma corretta del verbo 'essere' (forma estesa).",
+    "time": 1,
+    "type": "abbinamenti",
+    "pairs": [
+      [
+        "You",
+        "are"
+      ],
+      [
+        "We",
+        "are"
+      ],
+      [
+        "They",
+        "are"
+      ]
+    ],
+    "imageUrl": "www.example.com/match2.png"
+  },
+  {
+    "question": "Abbina il pronome alla sua forma contratta con 'is'.",
+    "time": 1,
+    "type": "abbinamenti",
+    "pairs": [
+      [
+        "He is",
+        "He's"
+      ],
+      [
+        "She is",
+        "She's"
+      ],
+      [
+        "It is",
+        "It's"
+      ]
+    ],
+    "imageUrl": "www.example.com/match3.png"
+  },
+  {
+    "question": "Abbina il pronome alla sua forma contratta con 'are'.",
+    "time": 1,
+    "type": "abbinamenti",
+    "pairs": [
+      [
+        "You are",
+        "You're"
+      ],
+      [
+        "We are",
+        "We're"
+      ],
+      [
+        "They are",
+        "They're"
+      ]
+    ],
+    "imageUrl": "www.example.com/match4.png"
+  },
+  {
+    "question": "Abbina la forma estesa alla forma negativa contratta.",
+    "time": 1,
+    "type": "abbinamenti",
+    "pairs": [
+      [
+        "is not",
+        "isn't"
+      ],
+      [
+        "are not",
+        "aren't"
+      ],
+      [
+        "I am not",
+        "I'm not"
+      ]
+    ],
+    "imageUrl": "www.example.com/match5.png"
+  }
+]
