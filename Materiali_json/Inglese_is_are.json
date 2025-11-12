@@ -1,0 +1,304 @@
+[
+  {
+    "question": "Completa la frase: The cat ___ sleeping.",
+    "time": 1,
+    "options": [
+      "is",
+      "are"
+    ],
+    "correctAnswer": "is",
+    "imageUrl": ""
+  },
+  {
+    "question": "Completa la frase: The books ___ on the table.",
+    "time": 1,
+    "options": [
+      "is",
+      "are"
+    ],
+    "correctAnswer": "are",
+    "imageUrl": ""
+  },
+  {
+    "question": "Completa la frase: My brother ___ tall.",
+    "time": 1,
+    "options": [
+      "is",
+      "are"
+    ],
+    "correctAnswer": "is",
+    "imageUrl": ""
+  },
+  {
+    "question": "Completa la frase: We ___ hungry.",
+    "time": 1,
+    "options": [
+      "is",
+      "are"
+    ],
+    "correctAnswer": "are",
+    "imageUrl": ""
+  },
+  {
+    "question": "Completa la frase: Emma and I ___ friends.",
+    "time": 1,
+    "options": [
+      "is",
+      "are",
+      "am"
+    ],
+    "correctAnswer": "are",
+    "imageUrl": ""
+  },
+  {
+    "question": "La frase 'They is happy' è corretta?",
+    "time": 1,
+    "type": "vero_falso",
+    "correctAnswer": "Falso",
+    "imageUrl": ""
+  },
+  {
+    "question": "La frase 'He is a doctor' è corretta?",
+    "time": 1,
+    "type": "vero_falso",
+    "correctAnswer": "Vero",
+    "imageUrl": ""
+  },
+  {
+    "question": "Completa la domanda: ___ you ready?",
+    "time": 1,
+    "options": [
+      "Is",
+      "Are"
+    ],
+    "correctAnswer": "Are",
+    "imageUrl": ""
+  },
+  {
+    "question": "Completa la domanda: ___ she your sister?",
+    "time": 1,
+    "options": [
+      "Is",
+      "Are"
+    ],
+    "correctAnswer": "Is",
+    "imageUrl": ""
+  },
+  {
+    "question": "Completa la frase negativa: The dog ___ white, it's black.",
+    "time": 1,
+    "options": [
+      "isn't",
+      "aren't"
+    ],
+    "correctAnswer": "isn't",
+    "imageUrl": ""
+  },
+  {
+    "question": "Completa la frase negativa: My shoes ___ clean.",
+    "time": 1,
+    "options": [
+      "isn't",
+      "aren't"
+    ],
+    "correctAnswer": "aren't",
+    "imageUrl": ""
+  },
+  {
+    "question": "Completa la frase: Luca and Marco ___ playing videogames.",
+    "time": 1,
+    "options": [
+      "is",
+      "are"
+    ],
+    "correctAnswer": "are",
+    "imageUrl": ""
+  },
+  {
+    "question": "Completa la frase: The teacher ___ writing on the board.",
+    "time": 1,
+    "options": [
+      "is",
+      "are"
+    ],
+    "correctAnswer": "is",
+    "imageUrl": ""
+  },
+  {
+    "question": "Completa la frase: The children ___ in the park.",
+    "time": 1,
+    "options": [
+      "is",
+      "are"
+    ],
+    "correctAnswer": "are",
+    "imageUrl": ""
+  },
+  {
+    "question": "Con quale soggetto si usa 'IS'?",
+    "time": 1,
+    "options": [
+      "He, She, It",
+      "We, They",
+      "I, You"
+    ],
+    "correctAnswer": "He, She, It",
+    "imageUrl": ""
+  },
+  {
+    "question": "Con quale soggetto si usa 'ARE'?",
+    "time": 1,
+    "options": [
+      "He, She, It",
+      "You, We, They"
+    ],
+    "correctAnswer": "You, We, They",
+    "imageUrl": ""
+  },
+  {
+    "question": "Completa la frase: This computer ___ new.",
+    "time": 1,
+    "options": [
+      "is",
+      "are"
+    ],
+    "correctAnswer": "is",
+    "imageUrl": ""
+  },
+  {
+    "question": "Completa la frase: Those apples ___ red.",
+    "time": 1,
+    "options": [
+      "is",
+      "are"
+    ],
+    "correctAnswer": "are",
+    "imageUrl": ""
+  },
+  {
+    "question": "La frase 'You and I is tall' è corretta?",
+    "time": 1,
+    "type": "vero_falso",
+    "correctAnswer": "Falso",
+    "imageUrl": ""
+  },
+  {
+    "question": "Completa la domanda: ___ your parents at home?",
+    "time": 1,
+    "options": [
+      "Is",
+      "Are"
+    ],
+    "correctAnswer": "Are",
+    "imageUrl": ""
+  },
+  {
+    "question": "Ricostruisci la frase negativa: 'my / isn't / This / book'.",
+    "time": 1,
+    "type": "ricostruisci_frase",
+    "sentence": "This isn't my book",
+    "imageUrl": ""
+  },
+  {
+    "question": "Ricostruisci la domanda: '? / your / name / What / is'.",
+    "time": 1,
+    "type": "ricostruisci_frase",
+    "sentence": "What is your name?",
+    "imageUrl": ""
+  },
+  {
+    "question": "Completa la frase: There ___ a cat on the roof.",
+    "time": 1,
+    "options": [
+      "is",
+      "are"
+    ],
+    "correctAnswer": "is",
+    "imageUrl": ""
+  },
+  {
+    "question": "Completa la frase: There ___ two birds on the tree.",
+    "time": 1,
+    "options": [
+      "is",
+      "are"
+    ],
+    "correctAnswer": "are",
+    "imageUrl": ""
+  },
+  {
+    "question": "Completa la domanda negativa: ___ he your friend?",
+    "time": 1,
+    "options": [
+      "Isn't",
+      "Aren't"
+    ],
+    "correctAnswer": "Isn't",
+    "imageUrl": ""
+  },
+  {
+    "question": "Completa la domanda negativa: ___ we late?",
+    "time": 1,
+    "options": [
+      "Isn't",
+      "Aren't"
+    ],
+    "correctAnswer": "Aren't",
+    "imageUrl": ""
+  },
+  {
+    "question": "Completa la frase: My father ___ a pilot.",
+    "time": 1,
+    "options": [
+      "is",
+      "are"
+    ],
+    "correctAnswer": "is",
+    "imageUrl": ""
+  },
+  {
+    "question": "La frase 'The police are here' è corretta?",
+    "time": 1,
+    "type": "vero_falso",
+    "correctAnswer": "Vero",
+    "imageUrl": ""
+  },
+  {
+    "question": "Completa la frase: Your homework ___ very difficult.",
+    "time": 1,
+    "options": [
+      "is",
+      "are"
+    ],
+    "correctAnswer": "is",
+    "imageUrl": ""
+  },
+  {
+    "question": "Abbina il soggetto alla forma verbale corretta.",
+    "time": 1,
+    "type": "abbinamenti",
+    "pairs": [
+      [
+        "He",
+        "is"
+      ],
+      [
+        "They",
+        "are"
+      ],
+      [
+        "The girl",
+        "is"
+      ],
+      [
+        "My parents",
+        "are"
+      ],
+      [
+        "You and I",
+        "are"
+      ]
+    ],
+    "imageUrl": ""
+  }
+]
